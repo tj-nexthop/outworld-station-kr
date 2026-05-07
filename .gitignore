@@ -1,0 +1,35 @@
+# --- Game assets (copyrighted; regenerable via `build.ps1 -Init`) ---
+/extracted/
+/source/
+/work/
+
+# --- Build outputs (distribute via GitHub Releases) ---
+/mod/
+/installer/*.exe
+
+# --- External tools (download separately, see README) ---
+/tools/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- OS / editor junk ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# --- Dev-only / one-off scripts (not part of the build pipeline) ---
+/scripts/poc_*.py
+/scripts/build_ko_locres_test.py
+/scripts/inspect_dt.py
+
+# --- Internal planning doc (project history; README has the public-facing version) ---
+/PLAN.md
+
+# --- Font binaries (download separately per fonts/README.md) ---
+/fonts/*.ttf
+/fonts/*.otf

@@ -1,0 +1,34 @@
+Outworld Station Korean Patch — Third-Party Notices
+====================================================
+
+This patch bundles two open-source fonts to provide Korean character
+rendering. Both are distributed under the SIL Open Font License 1.1.
+
+----------------------------------------------------------------------
+1. Pretendard
+----------------------------------------------------------------------
+Copyright (c) 2021 Kil Hyung-jin (https://github.com/orioncactus)
+Source: https://github.com/orioncactus/pretendard
+License: SIL Open Font License 1.1
+        https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web
+
+----------------------------------------------------------------------
+2. Noto Sans KR
+----------------------------------------------------------------------
+Copyright (c) Google LLC
+Source: https://github.com/notofonts/noto-cjk
+        https://fonts.google.com/noto/specimen/Noto+Sans+KR
+License: SIL Open Font License 1.1
+        https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web
+
+----------------------------------------------------------------------
+Other components
+----------------------------------------------------------------------
+- Build scripts and installer source code: MIT License
+- Translation text: CC-BY 4.0
+- "Outworld Station" trademark and copyrights belong to
+  Trickjump Games Ltd. This is an unofficial fan-made patch and is
+  not affiliated with or endorsed by Trickjump Games Ltd.
+
+Source repository:
+https://github.com/tj-nexthop/outworld-station-kr

@@ -11,7 +11,7 @@
 ; editor's encoding. Korean wizard text comes from Korean.isl.
 
 #define AppName    "Outworld Station Korean Patch"
-#define AppVersion "1.0.0"
+#define AppVersion "1.0.1"
 #define RepoURL    "https://github.com/tj-nexthop/outworld-station-kr"
 
 [Setup]

@@ -1,6 +1,8 @@
 # --- Game assets (copyrighted; regenerable via `build.ps1 -Init`) ---
 /extracted/
+/extracted.*/
 /source/
+/source.*/
 /work/
 
 # --- Build outputs (distribute via GitHub Releases) ---

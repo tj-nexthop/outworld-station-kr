@@ -5,14 +5,14 @@
 
 | 항목 (Item) | 값 (Value) |
 |---|---|
-| 한글 패치 버전 (Patch version) | **v1.0.1** |
-| 패치 빌드 날짜 (Patch build date) | **2026-05-07** |
-| 대상 게임 빌드 (Target game build) | **Outworld Station 1.0.0.1 [REL]** (정식 출시 / Official release, 2026-05-05) |
+| 한글 패치 버전 (Patch version) | **v1.0.2** |
+| 패치 빌드 날짜 (Patch build date) | **2026-05-11** |
+| 대상 게임 빌드 (Target game build) | **Outworld Station 1.0.0.2 [REL]** (정식 출시 / Official release, 2026-05-05) |
 | 테스트 OS (Tested OS) | **Windows 11** |
 
-> ⚠️ **Steam이 게임을 업데이트하면 (예: 1.0.0.2, 1.0.1.0 등) 본 패치는 호환되지 않을 수 있습니다.** 새 게임 빌드가 나오면 새 한글 패치 버전이 올라올 때까지 기다려 주세요. 이슈는 [Issues](https://github.com/tj-nexthop/outworld-station-kr/issues)에 알려주시면 우선순위 보고 처리합니다 (보장은 어려움).
+> ⚠️ **Steam이 게임을 업데이트하면 (예: 1.0.0.3, 1.0.1.0 등) 본 패치는 호환되지 않을 수 있습니다.** 새 게임 빌드가 나오면 새 한글 패치 버전이 올라올 때까지 기다려 주세요. 이슈는 [Issues](https://github.com/tj-nexthop/outworld-station-kr/issues)에 알려주시면 우선순위 보고 처리합니다 (보장은 어려움).
 >
-> ⚠️ *Patch may break when Steam updates the game (e.g., to 1.0.0.2). Wait for a new patch release in that case. Open an Issue if you encounter problems — fixes are best-effort.*
+> ⚠️ *Patch may break when Steam updates the game (e.g., to 1.0.0.3). Wait for a new patch release in that case. Open an Issue if you encounter problems — fixes are best-effort.*
 
 ## 📌 알려드립니다 (Heads-up)
 
@@ -30,7 +30,7 @@
 > **테스트 환경 (Tested on)**: Windows 11. 그 외 환경(Windows 10 등)에서는 동작 보장이 어렵습니다.
 
 1. Steam에서 Outworld Station을 설치합니다.
-2. [v1.0.1 릴리즈 페이지](https://github.com/tj-nexthop/outworld-station-kr/releases/tag/v1.0.1)로 이동 → 페이지 하단 **Assets** 항목에서 `KoreanPatch_OutworldStation_v1.0.1.exe` 다운로드.
+2. [v1.0.2 릴리즈 페이지](https://github.com/tj-nexthop/outworld-station-kr/releases/tag/v1.0.2)로 이동 → 페이지 하단 **Assets** 항목에서 `KoreanPatch_OutworldStation_v1.0.2.exe` 다운로드.
    (또는 항상 최신 버전으로 가려면 [/releases/latest](https://github.com/tj-nexthop/outworld-station-kr/releases/latest))
 3. 더블클릭 → 설치.
 4. Steam에서 게임 실행 → 한국어로 표시됩니다.

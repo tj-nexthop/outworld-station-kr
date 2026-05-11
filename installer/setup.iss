@@ -1,4 +1,4 @@
-; Outworld Station Korean Patch -- Inno Setup script
+﻿; Outworld Station Korean Patch -- Inno Setup script
 ; Compiles to a single .exe that:
 ;   1. auto-detects the Outworld Station install across all Steam libraries
 ;   2. installs mod files into %LOCALAPPDATA%\OutworldStation_KR\mods (backup)
@@ -11,7 +11,7 @@
 ; editor's encoding. Korean wizard text comes from Korean.isl.
 
 #define AppName    "Outworld Station Korean Patch"
-#define AppVersion "1.0.1"
+#define AppVersion "1.0.2"
 #define RepoURL    "https://github.com/tj-nexthop/outworld-station-kr"
 
 [Setup]
@@ -261,3 +261,4 @@ begin
     end;
   end;
 end;
+

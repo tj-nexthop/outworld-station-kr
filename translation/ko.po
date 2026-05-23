@@ -1487,343 +1487,343 @@ msgctxt "DT_Levels@e0@de33"
 msgid "We have made a significant scientific breakthrough in <Bold>Quantum Physics</>, and unlocked several <Bold>new parts and materials</> that can be used in further technologies."
 msgstr "<Bold>양자 물리학</>에서 중요한 과학적 돌파구를 마련했고, 추가 기술에 사용할 수 있는 여러 <Bold>새 부품과 재료</>를 잠금 해제했습니다."
 
-msgctxt "DT_Levels@e0@df60"
+msgctxt "DT_Levels@e0@df68"
 msgid "Advanced AI Robotics"
 msgstr "고급 AI 로봇공학"
 
-msgctxt "DT_Levels@e0@dfad"
+msgctxt "DT_Levels@e0@dfb5"
 msgid "Unlocks the <Bold>Servitor Station</> which deploys a programmable <Bold>robotic AI helper</>."
 msgstr "프로그래밍 가능한 <Bold>로봇 AI 보조</>를 배치하는 <Bold>서비터 스테이션</>을 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@e082"
+msgctxt "DT_Levels@e0@e08a"
 msgid "The <Bold>Servitor Station</> deploys a helpful <Bold>AI-powered robot</> that can be set to automatically perform tasks around your station such as <Bold>repairing damaged modules</>, aligning <Bold>solar panels</> and <Bold>collecting resources</> when <Bold>linked</> to a suitable destination module."
 msgstr "<Bold>서비터 스테이션</>은 유용한 <Bold>AI 로봇</>을 배치하며, 적절한 대상 모듈에 <Bold>연결</>하면 <Bold>손상된 모듈 수리</>, <Bold>태양광 패널</> 정렬, <Bold>자원 수집</> 같은 작업을 스테이션 주변에서 자동으로 수행하도록 설정할 수 있습니다."
 
-msgctxt "DT_Levels@e0@e1e6"
+msgctxt "DT_Levels@e0@e1ee"
 msgid "A particularly useful function for the Servitor is to automate the collection of <Bold>Exotic Matter</> from the <Bold>Junkyard Zone</>."
 msgstr "서비터의 특히 유용한 기능은 <Bold>고철장 구역</>에서 <Bold>이그조틱 물질</> 수집을 자동화하는 것입니다."
 
-msgctxt "DT_Levels@e0@e2e8"
+msgctxt "DT_Levels@e0@e2f0"
 msgid "Advanced Portals"
 msgstr "고급 포털"
 
-msgctxt "DT_Levels@e0@e331"
+msgctxt "DT_Levels@e0@e339"
 msgid "Unlocks the <Bold>Mk 2 Wormhole</> which can transport more items, gases and liquids at a <Bold>faster rate</>."
 msgstr "더 많은 아이템, 기체, 액체를 <Bold>더 빠른 속도</>로 운송할 수 있는 <Bold>Mk 2 웜홀</>을 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@e435"
+msgctxt "DT_Levels@e0@e43d"
 msgid "<Bold>Mk 2 Wormholes</> have now been unlocked. \r\n\r\nThese can transport more items, gases and liquids between remote parts of your stations at a faster rate."
 msgstr "<Bold>Mk 2 웜홀</>이 잠금 해제되었습니다.\n\n스테이션의 원격 부분 간 더 많은 아이템, 기체, 액체를 더 빠른 속도로 운송할 수 있습니다."
 
-msgctxt "DT_Levels@e0@e547"
+msgctxt "DT_Levels@e0@e54f"
 msgid "Quantum Storage"
 msgstr "양자 저장소"
 
-msgctxt "DT_Levels@e0@e58f"
+msgctxt "DT_Levels@e0@e597"
 msgid "Unlocks the <Bold>Quantum Storage</> device which lets you feed in items and parts and then <Bold>access them from anywhere</> via your <Bold>Drone's inventory</>."
 msgstr "아이템과 부품을 투입한 다음 <Bold>드론 인벤토리</>를 통해 <Bold>어디서든 접근</>할 수 있는 <Bold>양자 저장</> 장치를 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@e6a9"
+msgctxt "DT_Levels@e0@e6b1"
 msgid "<Bold>Quantum Storage</> units have now been unlocked. \r\n\r\nFeed items and materials into this device and <Bold>access them anywhere</> from your <Bold>Drone's inventory</>."
 msgstr "<Bold>양자 저장</> 유닛이 잠금 해제되었습니다.\n\n아이템과 재료를 이 장치에 투입하고 <Bold>드론 인벤토리</>에서 <Bold>어디서든 접근</>하세요."
 
-msgctxt "DT_Levels@e0@e7f7"
+msgctxt "DT_Levels@e0@e7ff"
 msgid "Centrifuge Technology"
 msgstr "원심분리 기술"
 
-msgctxt "DT_Levels@e0@e845"
+msgctxt "DT_Levels@e0@e84d"
 msgid "Unlocks the <Bold>Centrifuge</> which can be used to enrich <Bold>waste products</> and convert them into <Bold>useable materials</>."
 msgstr "<Bold>폐기물</>을 농축하여 <Bold>사용 가능한 재료</>로 변환하는 데 사용할 수 있는 <Bold>원심분리기</>를 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@e949"
+msgctxt "DT_Levels@e0@e951"
 msgid "The <Bold>Centrifuge</> has now been unlocked. \r\n\r\nThis device can be used to <Bold>enrich waste products</> and convert them into <Bold>usable materials</>."
 msgstr "<Bold>원심분리기</>가 잠금 해제되었습니다.\n\n이 장치는 <Bold>폐기물을 농축</>하여 <Bold>사용 가능한 재료</>로 변환하는 데 사용할 수 있습니다."
 
-msgctxt "DT_Levels@e0@ea6f"
+msgctxt "DT_Levels@e0@ea77"
 msgid "Arkship Terminal"
 msgstr "방주선 터미널"
 
-msgctxt "DT_Levels@e0@eb03"
+msgctxt "DT_Levels@e0@eb0b"
 msgid "<Bold>The Arkship</> will be our race's <Bold>greatest achievement</> - and our salvation - but its construction will take everything we have."
 msgstr "<Bold>방주선</>은 우리 종족의 <Bold>최고의 업적</> — 그리고 우리의 구원 — 이 될 것이지만, 그 건조에는 우리가 가진 모든 것을 쏟아부어야 할 것입니다."
 
-msgctxt "DT_Levels@e0@ebc5"
+msgctxt "DT_Levels@e0@ebcd"
 msgid "The first step will be constructing an <Bold>Arkship Terminal</>, which will serve as a nexus to channel items, parts and materials into the project. This is now available to construct from the <Bold>Build menu</>."
 msgstr "첫 단계는 <Bold>방주선 터미널</>을 건조하는 것입니다. 이는 아이템, 부품, 재료를 프로젝트로 채널링하는 중심부 역할을 합니다. 이제 <Bold>건설 메뉴</>에서 건설할 수 있습니다."
 
-msgctxt "DT_Levels@e0@eccf"
+msgctxt "DT_Levels@e0@ecd7"
 msgid "We've also picked up some <Bold>interesting readings</> from the orbit of the gas giant <Bold>Scylla</> - we recommend dispatching an <Bold>exploration mission</> there immediately with the following ships:\r\n\r\n{REQUIRED_SHIPS}"
 msgstr "또한 가스 거성 <Bold>스킬라</> 궤도에서 <Bold>흥미로운 신호</>를 포착했습니다 — 다음 함선들로 즉시 <Bold>탐사 임무</>를 그곳에 파견할 것을 권장합니다:\n\n{REQUIRED_SHIPS}"
 
-msgctxt "DT_Levels@e0@edf9"
+msgctxt "DT_Levels@e0@ee01"
 msgid "Well done Station Commander, the Arkship Terminal is now <Bold>fully operational</>.\r\n\r\nWhen you're ready, you can start feeding in the required items, parts and materials and take us to the <Bold>next stage</> of operation."
 msgstr "잘하셨습니다 스테이션 사령관님, 방주선 터미널이 이제 <Bold>완전 가동</>됩니다.\n\n준비되시면 필요한 아이템, 부품, 재료를 투입하기 시작하여 운영의 <Bold>다음 단계</>로 데려가실 수 있습니다."
 
-msgctxt "DT_Levels@e0@ef0d"
+msgctxt "DT_Levels@e0@ef15"
 msgid "Our <Bold>exploration mission</> to the gas giant <Bold>Scylla</> has also discovered an extremely <Bold>mineral-rich moon</> orbiting the planet - <Bold>Helion</> - and this location has been added to the System Map ready for <Bold>immediate expansion</>."
 msgstr "가스 거성 <Bold>스킬라</>로의 <Bold>탐사 임무</>는 행성을 공전하는 매우 <Bold>광물이 풍부한 위성</> — <Bold>헬리온</> — 도 발견했고, 이 장소가 <Bold>즉각 확장</>을 위해 시스템 지도에 추가되었습니다."
 
-msgctxt "DT_Levels@e0@f0c7"
+msgctxt "DT_Levels@e0@f0cf"
 msgid "Building The Arkship"
 msgstr "방주선 건조"
 
-msgctxt "DT_Levels@e0@f10f"
+msgctxt "DT_Levels@e0@f117"
 msgid "After neutralising an <Bold>ancient robot production facility</> in orbit around the <Bold>Lava Planet Cerberus</> - and developing many new manufacturing technologies - we believe we are finally ready to start production on our <Bold>Intergalactic Arkship</> and escape this doomed galaxy forever.\r\n\r\nThis is not going to be easy, however, and <Bold>The Void</> has <Bold>accelerated its expansion</> - so we may not have as much time as we hoped..."
 msgstr "<Bold>용암 행성 케르베로스</> 궤도의 <Bold>고대 로봇 생산 시설</>을 중립화하고 — 많은 새 제조 기술을 개발한 후 — 마침내 <Bold>은하 간 방주선</> 생산을 시작하고 이 운명 지어진 은하를 영원히 탈출할 준비가 됐다고 봅니다.\n\n그러나 이는 쉽지 않을 것이며, <Bold>공허</>가 <Bold>팽창을 가속화</>하고 있어 — 바랐던 만큼의 시간이 없을 수 있습니다..."
 
-msgctxt "DT_Levels@e0@f30d"
+msgctxt "DT_Levels@e0@f315"
 msgid "The Arkship"
 msgstr "방주선"
 
-msgctxt "DT_Levels@e0@f382"
+msgctxt "DT_Levels@e0@f38a"
 msgid "Armoured Materials"
 msgstr "장갑 재료"
 
-msgctxt "DT_Levels@e0@f3cd"
+msgctxt "DT_Levels@e0@f3d5"
 msgid "Researches <Bold>Tungten Carbide</> and related materials for extreme damage resistance."
 msgstr "극한의 피해 저항을 위한 <Bold>탄화 텅스텐</>과 관련 재료를 연구합니다."
 
-msgctxt "DT_Levels@e0@f4b0"
+msgctxt "DT_Levels@e0@f4b8"
 msgid "We've completed research into the material <Bold>Tungsten Carbide</>.\r\n\r\nThis very dense, tough material can be used in extreme environments and high pressure systems."
 msgstr "<Bold>탄화 텅스텐</> 재료에 대한 연구를 완료했습니다.\n\n이 매우 밀도 높고 강한 재료는 극한 환경과 고압 시스템에 사용할 수 있습니다."
 
-msgctxt "DT_Levels@e0@f5ca"
+msgctxt "DT_Levels@e0@f5d2"
 msgid "Component Factory"
 msgstr "부품 공장"
 
-msgctxt "DT_Levels@e0@f614"
+msgctxt "DT_Levels@e0@f61c"
 msgid "Unlocks the <Bold>Component Factory</> module, which can produce large <Bold>Starship</> and <Bold>Arkship components</>."
 msgstr "큰 <Bold>우주선</>과 <Bold>방주선 부품</>을 생산할 수 있는 <Bold>부품 공장</> 모듈을 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@f724"
+msgctxt "DT_Levels@e0@f72c"
 msgid "The <Bold>Component Factory</> has been unlocked.\r\n\r\nThis module is used to produce larger <Bold>Starship</> and <Bold>Arkship components</> which will require a tug to install into their destination."
 msgstr "<Bold>부품 공장</>이 잠금 해제되었습니다.\n\n이 모듈은 큰 <Bold>우주선</>과 <Bold>방주선 부품</>을 생산하는 데 사용되며, 목적지에 설치하려면 예인선이 필요합니다."
 
-msgctxt "DT_Levels@e0@f865"
+msgctxt "DT_Levels@e0@f86d"
 msgid "Large Ship Construction"
 msgstr "대형 함선 건조"
 
-msgctxt "DT_Levels@e0@f8b5"
+msgctxt "DT_Levels@e0@f8bd"
 msgid "Unlocks the <Bold>Large Shipyard</>, which can construct the largest classes of ships."
 msgstr "가장 큰 함급을 건조할 수 있는 <Bold>대형 조선소</>를 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@f98e"
+msgctxt "DT_Levels@e0@f996"
 msgid "The <Bold>Large Shipyard</> has been unlocked.\r\n\r\nThis can construct the very largest classes of starship, which will require a <Bold>large tug</> to move around your station."
 msgstr "<Bold>대형 조선소</>가 잠금 해제되었습니다.\n\n가장 큰 함급의 우주선을 건조할 수 있으며, 스테이션 주변에서 이동시키려면 <Bold>대형 예인선</>이 필요합니다."
 
-msgctxt "DT_Levels@e0@fad4"
+msgctxt "DT_Levels@e0@fadc"
 msgid "Large Starship Transportation"
 msgstr "대형 우주선 운송"
 
-msgctxt "DT_Levels@e0@fb2a"
+msgctxt "DT_Levels@e0@fb32"
 msgid "Unlocks the <Bold>Large Tug Bay</> and <Bold>Large Ship Tugs</> which can transport the largest ships around your station."
 msgstr "스테이션 주변에서 가장 큰 함선을 운송할 수 있는 <Bold>대형 예인선 도크</>와 <Bold>대형 함선 예인선</>을 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@fc1b"
+msgctxt "DT_Levels@e0@fc23"
 msgid "You have unlocked the <Bold>Large Tug Bay</> and <Bold>Large Ship Tugs</> which can be used to transport even the largest ships around your station."
 msgstr "스테이션 주변에서 가장 큰 함선까지도 운송하는 데 사용할 수 있는 <Bold>대형 예인선 도크</>와 <Bold>대형 함선 예인선</>이 잠금 해제되었습니다."
 
-msgctxt "DT_Levels@e0@fd22"
+msgctxt "DT_Levels@e0@fd2a"
 msgid "Exoplanet Ops"
 msgstr "외계행성 운영"
 
-msgctxt "DT_Levels@e0@fd68"
+msgctxt "DT_Levels@e0@fd70"
 msgid "Unlocks the <Bold>Exoplanet Ops Centre</> which can deploy <Bold>Planetary Lifters</> to fetch resources from the surface of compatible planets."
 msgstr "호환 행성 표면에서 자원을 가져오는 <Bold>행성 리프터</>를 배치할 수 있는 <Bold>외계행성 운영 센터</>를 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@fe6f"
+msgctxt "DT_Levels@e0@fe77"
 msgid "You have now unlocked the <Bold>Exoplanet Ops Centre</>.\r\n\r\nThis module can deploy multiple <Bold>Planetary Lifters</> which can be set to fetch resources from the surface of compatible planets."
 msgstr "이제 <Bold>외계행성 운영 센터</>가 잠금 해제되었습니다.\n\n이 모듈은 호환 행성 표면에서 자원을 가져오도록 설정할 수 있는 여러 <Bold>행성 리프터</>를 배치할 수 있습니다."
 
-msgctxt "DT_Levels@e0@ffaf"
+msgctxt "DT_Levels@e0@ffb7"
 msgid "Advanced Fluid Transport"
 msgstr "고급 유체 운송"
 
-msgctxt "DT_Levels@e0@10000"
+msgctxt "DT_Levels@e0@10008"
 msgid "Unlocks <Bold>Mark 2 Pipes</> and an <Bold>increased gas/fluid output rate</> to speed up how fast you can transport gases and fluids around your station."
 msgstr "스테이션 주변에서 기체와 유체를 운송하는 속도를 높이는 <Bold>Mark 2 파이프</>와 <Bold>증가된 기체/유체 출력 속도</>를 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@1011c"
+msgctxt "DT_Levels@e0@10124"
 msgid "You have unlocked <Bold>Mark 2 Pipes</> and an <Bold>increased gas/fluid output rate</>.\r\n\r\nTogether these will vastly speed up how fast you can transport gases and fluids around your station."
 msgstr "<Bold>Mark 2 파이프</>와 <Bold>증가된 기체/유체 출력 속도</>를 잠금 해제했습니다.\n\n이 둘은 함께 스테이션 주변에서 기체와 유체를 운송하는 속도를 크게 높입니다."
 
-msgctxt "DT_Levels@e0@1028a"
+msgctxt "DT_Levels@e0@10292"
 msgid "Antimatter Fuelling"
 msgstr "반물질 연료 주입"
 
-msgctxt "DT_Levels@e0@102d6"
+msgctxt "DT_Levels@e0@102de"
 msgid "Unlocks the <Bold>Mk 3 Fuel Depot</> which has a faster fuel transfer rate and can supply <Bold>Antimatter</> to larger ships, as well as the Crusader Auxilliary, a Capital-class resupply ship."
 msgstr "더 빠른 연료 전달 속도를 가지고 더 큰 함선에 <Bold>반물질</>을 공급할 수 있는 <Bold>Mk 3 연료 저장고</>와 주력함급 재보급 함선인 크루세이더 보조함을 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@10432"
+msgctxt "DT_Levels@e0@1043a"
 msgid "The <Bold>Mk 3 Fuel Depot</> has now been unlocked.\r\n\r\nThis module has a <Bold>faster fuel transfer rate</> and can both store and supply <Bold>Antimatter</> to the largest starships.\r\n\r\nYou can now also construct the Crusader Auxilliary, a Capital-class resupply ship which can refuel both fusion and antimatter-based starships."
 msgstr "<Bold>Mk 3 연료 저장고</>가 잠금 해제되었습니다.\n\n이 모듈은 <Bold>더 빠른 연료 전달 속도</>를 가지고 가장 큰 우주선에 <Bold>반물질</>을 저장하고 공급할 수 있습니다.\n\n또한 융합과 반물질 기반 우주선 모두를 재급유할 수 있는 주력함급 재보급 함선인 크루세이더 보조함을 건조할 수 있습니다."
 
-msgctxt "DT_Levels@e0@1060d"
+msgctxt "DT_Levels@e0@10615"
 msgid "Quantum Rift Extraction"
 msgstr "양자 균열 추출"
 
-msgctxt "DT_Levels@e0@1065d"
+msgctxt "DT_Levels@e0@10665"
 msgid "Unlocks the <Bold>Quantum Extractor</> which can extract Exotic Matter directly from a Quantum Rift"
 msgstr "양자 균열에서 이그조틱 물질을 직접 추출할 수 있는 <Bold>양자 추출기</>를 잠금 해제합니다"
 
-msgctxt "DT_Levels@e0@10737"
+msgctxt "DT_Levels@e0@1073f"
 msgid "The <Bold>Quantum Extractor</> has now been unlocked.\r\n\r\nConstruct this advanced device onto <Bold>Quantum Rifts</> you can find in locations like the <Bold>Junkyard</> to automate large-scale extraction of <Bold>Exotic Matter</>."
 msgstr "<Bold>양자 추출기</>가 잠금 해제되었습니다.\n\n<Bold>고철장</> 같은 장소에서 발견할 수 있는 <Bold>양자 균열</>에 이 고급 장치를 건설하여 <Bold>이그조틱 물질</>의 대규모 추출을 자동화하세요."
 
-msgctxt "DT_Levels@e0@108ae"
+msgctxt "DT_Levels@e0@108b6"
 msgid "Arkship Dock"
 msgstr "방주선 도크"
 
-msgctxt "DT_Levels@e0@10965"
+msgctxt "DT_Levels@e0@1096d"
 msgid "Commander, all of our <Bold>deep-space scanning</> stations have just <Bold>gone dark</>, and we are completely blind to what is happening in this sector of space..."
 msgstr "사령관님, 우리의 모든 <Bold>심우주 스캔</> 스테이션이 방금 <Bold>무응답</>이 되었고, 이 우주 구역에서 무슨 일이 일어나는지 완전히 알 수 없게 되었습니다..."
 
-msgctxt "DT_Levels@e0@10a3e"
+msgctxt "DT_Levels@e0@10a46"
 msgid "We can patch this gap with a network of our most powerful <Bold>science and scanning ships</>, along with an appropriate escort of military and resupply ships:\r\n\r\n{REQUIRED_SHIPS}"
 msgstr "가장 강력한 <Bold>과학 및 스캔 함선</> 네트워크와 함께 적절한 군용 및 재보급 함선 호위로 이 공백을 메울 수 있습니다:\n\n{REQUIRED_SHIPS}"
 
-msgctxt "DT_Levels@e0@10b25"
+msgctxt "DT_Levels@e0@10b2d"
 msgid "While this mission is underway, it's also <Bold>vital</> that you continue construction of our Intergalactic Arkship Project.\r\n\r\nThe next phase of the project will be building the <Bold>Arkship Dock</>, ready to begin construction of the Arkship itself."
 msgstr "이 임무가 진행되는 동안, 우리의 은하 간 방주선 프로젝트 건조를 계속하는 것도 <Bold>필수적</>입니다.\n\n프로젝트의 다음 단계는 방주선 자체의 건조를 시작할 준비가 된 <Bold>방주선 도크</>를 짓는 것입니다."
 
-msgctxt "DT_Levels@e0@10c6a"
+msgctxt "DT_Levels@e0@10c72"
 msgid "<Bold>Bad news</>, Commander...\r\n\r\nWe've just heard back from the fleet we dispatched to the edge of the system, and it's official: <Bold>The Void has arrived...</>"
 msgstr "<Bold>나쁜 소식</>입니다, 사령관님...\n\n성계 끝자락으로 파견한 함대로부터 방금 보고를 받았고, 이는 공식입니다: <Bold>공허가 도달했습니다...</>"
 
-msgctxt "DT_Levels@e0@10d42"
+msgctxt "DT_Levels@e0@10d4a"
 msgid "The Void's last <Bold>Expansion Phase</> has halted at the edge of this system, but another Expansion could occur at any time... we need to get the Arkship completed as soon as we can, Commander!"
 msgstr "공허의 마지막 <Bold>팽창 단계</>는 이 성계 끝자락에서 멈췄지만, 또 다른 팽창이 언제든 일어날 수 있습니다... 가능한 한 빨리 방주선을 완성해야 합니다, 사령관님!"
 
-msgctxt "DT_Levels@e0@10e39"
+msgctxt "DT_Levels@e0@10e41"
 msgid "Analysis has confirmed that a station could survive on the edge of The Void's event horizon, and could provide invaluable insight into the inner workings of this mysterious cosmic entity...\r\n\r\nThis location has been added to your <Bold>System Map</>."
 msgstr "분석 결과 스테이션이 공허의 사건 지평선 가장자리에서 생존할 수 있고, 이 신비로운 우주 존재의 내부 작동에 대한 귀중한 통찰을 제공할 수 있다는 것이 확인되었습니다...\n\n이 장소가 <Bold>시스템 지도</>에 추가되었습니다."
 
-msgctxt "DT_Levels@e0@11029"
+msgctxt "DT_Levels@e0@11031"
 msgid "Space Elevator"
 msgstr "우주 엘리베이터"
 
-msgctxt "DT_Levels@e0@11070"
+msgctxt "DT_Levels@e0@11078"
 msgid "Unlocks the <Bold>Space Elevator</> - a massive structure that can lift valuable resources from the surface of a planet."
 msgstr "행성 표면에서 귀중한 자원을 들어 올릴 수 있는 거대한 구조물인 <Bold>우주 엘리베이터</>를 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@11167"
+msgctxt "DT_Levels@e0@1116f"
 msgid "You have unlocked the <Bold>Space Elevator</>.\r\n\r\nThis massive orbital structure is capable of lifting valuable items, materials and parts from the surface of a planet, ready to be used in your station."
 msgstr "<Bold>우주 엘리베이터</>를 잠금 해제했습니다.\n\n이 거대한 궤도 구조물은 행성 표면에서 귀중한 아이템, 재료, 부품을 들어 올려 스테이션에서 사용할 수 있게 합니다."
 
-msgctxt "DT_Levels@e0@112b2"
+msgctxt "DT_Levels@e0@112ba"
 msgid "Quantum Destabilization"
 msgstr "양자 안정화 파괴"
 
-msgctxt "DT_Levels@e0@11302"
+msgctxt "DT_Levels@e0@1130a"
 msgid "Unlocks materials, items and parts related to <Bold>Quantum Destabilization</> - a highly experimental technology which has the power to <Bold>disrupt cosmic phenomena</> such as black holes."
 msgstr "블랙홀 같은 <Bold>우주 현상을 교란</>하는 힘을 가진 고도로 실험적인 기술인 <Bold>양자 안정화 파괴</>와 관련된 재료, 아이템, 부품을 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@1144c"
+msgctxt "DT_Levels@e0@11454"
 msgid "We have completed research into the field of Quantum Destabilization.\r\n\r\nAccording to our scientists, this highly experimental technology has the power to disrupt quantum entities - such as singularities - and may help us in our fight against The Void."
 msgstr "양자 안정화 파괴 분야의 연구를 완료했습니다.\n\n우리 과학자들에 따르면, 이 고도로 실험적인 기술은 특이점 같은 양자 존재를 교란할 힘을 가지고 있어 공허와의 싸움에서 우리에게 도움이 될 수 있습니다."
 
-msgctxt "DT_Levels@e0@115c4"
+msgctxt "DT_Levels@e0@115cc"
 msgid "Battlecruisers"
 msgstr "전투순양함"
 
-msgctxt "DT_Levels@e0@1160b"
+msgctxt "DT_Levels@e0@11613"
 msgid "Unlocks the <Bold>Battlecruiser class</> of starship - a massive capital-class ship that can mount the heaviest experimental weaponry."
 msgstr "가장 무거운 실험 무기를 장착할 수 있는 거대한 주력함급 함선인 우주선의 <Bold>전투순양함급</>을 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@11710"
+msgctxt "DT_Levels@e0@11718"
 msgid "You have unlocked the Battlecruiser class of starship.\r\n\r\nThis massive capital-class ship can mount the heaviest experimental weaponry and will be invaluable in our fight against The Void."
 msgstr "우주선의 전투순양함급을 잠금 해제했습니다.\n\n이 거대한 주력함급 함선은 가장 무거운 실험 무기를 장착할 수 있고 공허와의 싸움에서 매우 귀중할 것입니다."
 
-msgctxt "DT_Levels@e0@1186d"
+msgctxt "DT_Levels@e0@11875"
 msgid "Magnetic Accelerator"
 msgstr "자기 가속기"
 
-msgctxt "DT_Levels@e0@118ba"
+msgctxt "DT_Levels@e0@118c2"
 msgid "Unlocks the <Bold>Magnetic Accelerator</> which can target and destroy <Bold>Void Anomalies</> you may encounter at The Void's event horizon location."
 msgstr "공허의 사건 지평선 장소에서 마주칠 수 있는 <Bold>공허 이상 현상</>을 표적으로 하여 파괴할 수 있는 <Bold>자기 가속기</>를 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@119cf"
+msgctxt "DT_Levels@e0@119d7"
 msgid "You have unlocked the <Bold>Magnetic Accelerator</>.\r\n\r\nThis massive cannon can fire <Bold>Quantum Implosion Ammo</> at the <Bold>Void Anomalies</> you may encounter at The Void's <Bold>Event Horizon location</>.\r\n\r\nWhen destroyed, these anomalies may leave behind the rare and valuable material <Bold>Neutronium</>."
 msgstr "<Bold>자기 가속기</>를 잠금 해제했습니다.\n\n이 거대한 대포는 공허의 <Bold>사건 지평선 장소</>에서 마주칠 수 있는 <Bold>공허 이상 현상</>에 <Bold>양자 내파 탄약</>을 발사할 수 있습니다.\n\n파괴되면 이 이상 현상들은 희귀하고 귀중한 재료인 <Bold>중성자물질</>을 남길 수 있습니다."
 
-msgctxt "DT_Levels@e0@11bad"
+msgctxt "DT_Levels@e0@11bb5"
 msgid "Neutronium Processing"
 msgstr "중성자물질 가공"
 
-msgctxt "DT_Levels@e0@11bfb"
+msgctxt "DT_Levels@e0@11c03"
 msgid "Unlocks the ability to process <Bold>Neutronium</> into powerful <Bold>hyperdrive fuel</> that can be used in intergalactic star-drives."
 msgstr "은하 간 항성 추진 장치에 사용할 수 있는 강력한 <Bold>하이퍼드라이브 연료</>로 <Bold>중성자물질</>을 처리하는 능력을 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@11cfe"
+msgctxt "DT_Levels@e0@11d06"
 msgid "You have unlocked the ability to process <Bold>Neutronium</>.\r\n\r\nThis rare and valuable stellar substance is found in the core of stars and black holes, and can be refined into <Bold>Hyperdrive Fuel</> which can power intergalactic star-drives."
 msgstr "<Bold>중성자물질</> 처리 능력을 잠금 해제했습니다.\n\n이 희귀하고 귀중한 항성 물질은 항성과 블랙홀 핵에서 발견되며, 은하 간 항성 추진 장치를 구동할 수 있는 <Bold>하이퍼드라이브 연료</>로 정제할 수 있습니다."
 
-msgctxt "DT_Levels@e0@11e8c"
+msgctxt "DT_Levels@e0@11e94"
 msgid "Antimatter Lazer"
 msgstr "반물질 레이저"
 
-msgctxt "DT_Levels@e0@11ed5"
+msgctxt "DT_Levels@e0@11edd"
 msgid "Unlocks the <Bold>Antimatter Lazer</> which is a powerful beam weapon that can be crafted from the <Bold>Equipment Station</>."
 msgstr "<Bold>장비 정거장</>에서 제작할 수 있는 강력한 빔 무기인 <Bold>반물질 레이저</>를 잠금 해제합니다."
 
-msgctxt "DT_Levels@e0@11fce"
+msgctxt "DT_Levels@e0@11fd6"
 msgid "You have now unlocked the <Bold>Antimatter Lazer</>.\r\n\r\nThis is an extremely powerful beam weapon that can be crafted from the <Bold>Equipment Station</> and can be used to defend yourself from even the most powerful enemies."
 msgstr "이제 <Bold>반물질 레이저</>가 잠금 해제되었습니다.\n\n이는 <Bold>장비 정거장</>에서 제작할 수 있는 극도로 강력한 빔 무기로, 가장 강력한 적으로부터도 스스로를 방어하는 데 사용할 수 있습니다."
 
-msgctxt "DT_Levels@e0@12136"
+msgctxt "DT_Levels@e0@1213e"
 msgid "Complete The Arkship"
 msgstr "방주선 완성"
 
-msgctxt "DT_Levels@e0@121d2"
+msgctxt "DT_Levels@e0@121da"
 msgid "With our recent advancements in <Bold>Quantum Destablization</> technology, it may actually be possible to temporarily delay The Void's next expansion phase - giving us enough time to complete the <Bold>Arkship</> and escape this galaxy..."
 msgstr "최근 <Bold>양자 안정화 파괴</> 기술의 발전으로, 실제로 공허의 다음 팽창 단계를 일시적으로 지연시켜 <Bold>방주선</>을 완성하고 이 은하를 탈출할 시간을 충분히 벌 수 있을지도 모릅니다..."
 
-msgctxt "DT_Levels@e0@122f5"
+msgctxt "DT_Levels@e0@122fd"
 msgid "This will require a flotilla of our most <Bold>powerful battlecruisers</> - fitted with this devastating weapons technology - all working in unison:\r\n\r\n{REQUIRED_SHIPS}"
 msgstr "이를 위해서는 가장 <Bold>강력한 전투순양함</> 함대가 — 이 파괴적인 무기 기술을 장착하고 — 일사불란하게 작동해야 합니다:\n\n{REQUIRED_SHIPS}"
 
-msgctxt "DT_Levels@e0@123d1"
+msgctxt "DT_Levels@e0@123d9"
 msgid "Now that the <Bold>Arkship Dock</> is complete, its time to put all of our efforts into building the <Bold>Arkship</> itself - use every means at your disposal Commander, <Bold>we may not have much time!</>"
 msgstr "이제 <Bold>방주선 도크</>가 완성되었으니, 모든 노력을 <Bold>방주선</> 자체를 짓는 데 쏟을 시간입니다 — 사령관님, 가능한 모든 수단을 동원하세요. <Bold>시간이 많지 않을 수 있습니다!</>"
 
-msgctxt "DT_Levels@e0@124e7"
+msgctxt "DT_Levels@e0@124ef"
 msgid "<Bold>The Arkship is complete</>, Commander - truly an <Bold>amazing accomplishment!</>\r\n\r\nAll that remains is to power and fuel its <Bold>Intergalactic Stardrive</> - then we will be ready to <Bold>launch</>."
 msgstr "<Bold>방주선이 완성되었습니다</>, 사령관님 — 정말 <Bold>놀라운 업적</>입니다!\n\n남은 것은 <Bold>은하 간 항성 추진 장치</>에 동력과 연료를 공급하는 것뿐입니다 — 그러면 <Bold>발진</> 준비가 됩니다."
 
-msgctxt "DT_Levels@e0@1269b"
+msgctxt "DT_Levels@e0@126a3"
 msgid "Launch The Arkship"
 msgstr "방주선 발진"
 
-msgctxt "DT_Levels@e0@126e6"
+msgctxt "DT_Levels@e0@126ee"
 msgid "Fuel and power the Intergalactic Arkship's Hyper-drive and escape the galaxy - and The Void - forever..."
 msgstr "은하 간 방주선의 하이퍼드라이브에 연료와 동력을 공급하고 은하 — 그리고 공허 — 로부터 영원히 탈출하세요..."
 
-msgctxt "DT_Levels@e0@127b2"
+msgctxt "DT_Levels@e0@127ba"
 msgid "With the Arkship complete, we now have everything we need to escape the galaxy - and The Void - forever.\r\n\r\nAll that remains is to <Bold>power and fuel</> the Arkship's Intergalactic <Bold>Hyperdrive</> with neutronium-based fuel."
 msgstr "방주선이 완성되어 이제 은하 — 그리고 공허 — 로부터 영원히 탈출하는 데 필요한 모든 것을 가지게 되었습니다.\n\n남은 것은 방주선의 은하 간 <Bold>하이퍼드라이브</>에 중성자물질 기반 연료로 <Bold>동력과 연료를 공급</>하는 것입니다."
 
-msgctxt "DT_Levels@e0@128cc"
+msgctxt "DT_Levels@e0@128d4"
 msgid "This experimental drive will require <Bold>massive amounts of power</> to initialise - so you will need to use all of your engineering abilities to accomplish this."
 msgstr "이 실험적 추진 장치는 초기화에 <Bold>막대한 양의 전력</>이 필요합니다 — 따라서 이를 달성하려면 모든 공학 능력을 사용해야 합니다."
 
-msgctxt "DT_Levels@e0@129a4"
+msgctxt "DT_Levels@e0@129ac"
 msgid "Although our Battlecruisers have bought us some time, The Void could start its next <Bold>Expansion Phase</> at any time, so we recommend moving with <Bold>all haste</>, Commander..."
 msgstr "우리 전투순양함이 시간을 벌어줬지만, 공허는 언제든 다음 <Bold>팽창 단계</>를 시작할 수 있으므로 <Bold>최대한 서두를</> 것을 권장합니다, 사령관님..."
 
-msgctxt "DT_Levels@e0@12aa2"
+msgctxt "DT_Levels@e0@12aaa"
 msgid "Commander, the Arkship is fuelled, powered and ready to launch!"
 msgstr "사령관님, 방주선의 연료 주입과 동력 공급이 완료되어 발진 준비가 끝났습니다!"
 
-msgctxt "DT_Levels@e0@12b15"
+msgctxt "DT_Levels@e0@12b1d"
 msgid "But there's something you should know - we've been receiving communications from inside The Void, and its been confirmed: The people from our home system are still alive somehow - inside The Void - transcribed into a quantum state..."
 msgstr "하지만 알아두셔야 할 것이 있습니다 — 우리는 공허 안에서 통신을 받아오고 있었고, 확인되었습니다: 우리 고향 성계의 사람들은 어떻게든 아직 살아있습니다 — 공허 안에서 — 양자 상태로 전사되어..."
 
-msgctxt "DT_Levels@e0@12c32"
+msgctxt "DT_Levels@e0@12c3a"
 msgid "According to them, The Void is NOT the great destroyer that we believed...\r\n\r\nInstead, it seems to be a vast machine created aeons ago to achieve Singularity for everyone in this galaxy... and its almost ready to activate..."
 msgstr "그들에 따르면, 공허는 우리가 믿었던 위대한 파괴자가 아닙니다...\n\n그 대신, 이 은하의 모든 이를 위한 특이점을 달성하기 위해 영겁 전에 만들어진 거대한 기계로 보이며... 활성화 준비가 거의 됐습니다..."
 
-msgctxt "DT_Levels@e0@12d46"
+msgctxt "DT_Levels@e0@12d4e"
 msgid "Its up to you now, Commander...\r\n\r\nDo we use the Arkship to join our lost kin inside The Void - or to escape this galaxy forever...?"
 msgstr "이제 사령관님께 달렸습니다...\n\n방주선을 사용해 공허 안의 잃어버린 동족과 합류할까요 — 아니면 이 은하를 영원히 탈출할까요...?"
 
@@ -1887,6 +1887,10 @@ msgstr "메인 툴바의 '+' 버튼을 눌러 사용자 지정 작업을 만들 
 msgctxt "DT_LoadingScreenTips@e0@939"
 msgid "You can align multiple <Bold>solar generators</> by using <Bold>Shift + LMB</>"
 msgstr "<Bold>Shift + 좌클릭</>으로 여러 <Bold>태양광 발전기</>를 정렬할 수 있습니다"
+
+msgctxt "DT_LoadingScreenTips@e0@9c8"
+msgid "You can <Bold>move</> most buildings by using <Bold>CTRL + X</>"
+msgstr "<Bold>CTRL + X</> 단축키로 대부분의 건물을 <Bold>이동</>할 수 있습니다"
 
 # ---------------------------------------------------------- DT_Materials
 msgctxt "DT_Materials@e0@f0"
@@ -4150,131 +4154,127 @@ msgctxt "DT_Tutorials@e0@29c1"
 msgid "Tugs"
 msgstr "예인선"
 
-msgctxt "DT_Tutorials@e0@29f9"
-msgid "<Bold>Tugs</> can be used to automate moving ships around your station.\r\n\r\nYou can use the <Bold>connect</> function to connect a <Bold>shipyard</> to another module such as a <Bold>fuel bay</> or <Bold>ammo depot</>, or to an <Bold>empty space</> near your station.\r\n\r\nIf a tug is in range of a completed ship in one of these connected modules it will automatically pick up and transfer the ship to the correct destination."
-msgstr "<Bold>예인선</>을 사용하여 스테이션 주변에서 우주선 이동을 자동화할 수 있습니다.\n\n<Bold>연결</> 기능을 사용하여 <Bold>조선소</>를 <Bold>연료 저장고</>나 <Bold>탄약 저장고</> 같은 다른 모듈, 또는 스테이션 근처 <Bold>빈 공간</>에 연결할 수 있습니다.\n\n예인선이 이러한 연결된 모듈 중 하나에 있는 완성된 우주선의 사정거리 안에 있으면 자동으로 픽업하여 올바른 목적지로 운반합니다."
-
-msgctxt "DT_Tutorials@e0@2c06"
+msgctxt "DT_Tutorials@e0@2c00"
 msgid "Ship Reactors"
 msgstr "함선 원자로"
 
-msgctxt "DT_Tutorials@e0@2c47"
+msgctxt "DT_Tutorials@e0@2c41"
 msgid "Larger ships can have one or more <Bold>micro fusion reactor</> components.\r\n\r\nOnce completed, these will begin to go <Bold>critical</>, and will <Bold>explode</> if allowed to fully melt down.\r\n\r\nTo avoid this the ship must be <Bold>fully fuelled</> in a <Bold>Fuel Bay</> before the timer runs out."
 msgstr "더 큰 우주선은 하나 이상의 <Bold>마이크로 융합로</> 부품을 가질 수 있습니다.\n\n완성되면 <Bold>임계</> 상태로 진입하기 시작하며, 완전히 멜트다운되면 <Bold>폭발</>합니다.\n\n이를 방지하려면 타이머가 만료되기 전에 우주선을 <Bold>연료 저장고</>에서 <Bold>완전히 연료 주입</>해야 합니다."
 
-msgctxt "DT_Tutorials@e0@2de1"
+msgctxt "DT_Tutorials@e0@2ddb"
 msgid "Artifacts"
 msgstr "유물"
 
-msgctxt "DT_Tutorials@e0@3099"
+msgctxt "DT_Tutorials@e0@3093"
 msgid "Hotbar"
 msgstr "단축바"
 
-msgctxt "DT_Tutorials@e0@3399"
+msgctxt "DT_Tutorials@e0@3393"
 msgid "Un-linking Modules"
 msgstr "모듈 연결 해제"
 
-msgctxt "DT_Tutorials@e0@33df"
+msgctxt "DT_Tutorials@e0@33d9"
 msgid "To remove a module link, enter <Bold>Link mode</> with <Bold>F</> or the toolbar, select a module that you have previously linked, and then select the destination module you want to unlink from it.\r\n\r\nHold <Bold>Shift</> to quickly un-link a module from multiple destinations.\r\n\r\nYou can also <Bold>remove all links</> by selecting a module in Link mode and pressing <Bold>X</>."
 msgstr "모듈 연결을 제거하려면 <Bold>F</>나 툴바로 <Bold>연결 모드</>에 진입한 다음, 이전에 연결한 모듈을 선택하고 연결을 해제할 대상 모듈을 선택하세요.\n\n<Bold>Shift</>를 누르면 모듈을 여러 대상으로부터 빠르게 연결 해제할 수 있습니다.\n\n연결 모드에서 모듈을 선택하고 <Bold>X</>를 누르면 <Bold>모든 연결을 제거</>할 수도 있습니다."
 
-msgctxt "DT_Tutorials@e0@35ac"
+msgctxt "DT_Tutorials@e0@35a6"
 msgid "Advanced: Item Filters"
 msgstr "고급: 아이템 필터"
 
-msgctxt "DT_Tutorials@e0@35f6"
+msgctxt "DT_Tutorials@e0@35f0"
 msgid "If you want more control over exactly what will be sent to Storage Units or Factories, you can use the <Bold>Item Filters</> panel.\r\n\r\nFrom here you can highlight any inventory slot and choose which items can be stored there, set a maximum limit for that item, or completely disable the slot.\r\n\r\nThere are also several functions for copying the current slot to all others, or from one slot to another."
 msgstr "저장소나 공장으로 보낼 아이템을 더 정확히 제어하려면 <Bold>아이템 필터</> 패널을 사용할 수 있습니다.\n\n여기서 인벤토리 슬롯을 강조 표시하고 그 슬롯에 저장할 수 있는 아이템을 선택하거나, 그 아이템의 최대 한도를 설정하거나, 슬롯을 완전히 비활성화할 수 있습니다.\n\n현재 슬롯을 다른 모든 슬롯에 복사하거나, 한 슬롯에서 다른 슬롯으로 복사하는 기능도 있습니다."
 
-msgctxt "DT_Tutorials@e0@37da"
+msgctxt "DT_Tutorials@e0@37d4"
 msgid "Advanced: Extra Functions"
 msgstr "고급: 추가 기능"
 
-msgctxt "DT_Tutorials@e0@3827"
+msgctxt "DT_Tutorials@e0@3821"
 msgid "Clicking the <Bold>cog</> button opens the <Bold>Advanced Settings</> panel.\r\n\r\nFrom here you can <Bold>label</> any module with a custom tag which appears in the <Bold>Status View</> as well as several other functions.\r\n\r\nYou can also choose a module's <Bold>priority</> in this panel. Modules with a higher priority will <Bold>take more resources</> from sources than those with a lower priority - which is extremely useful for streamlining your station's manufacturing processes."
 msgstr "<Bold>톱니바퀴</> 버튼을 클릭하면 <Bold>고급 설정</> 패널이 열립니다.\n\n여기서 모듈에 <Bold>라벨</>(커스텀 태그)을 붙여 <Bold>상태 뷰</>에 표시할 수 있고 여러 다른 기능을 사용할 수 있습니다.\n\n이 패널에서 모듈의 <Bold>우선순위</>도 선택할 수 있습니다. 우선순위가 높은 모듈은 우선순위가 낮은 모듈보다 공급원에서 <Bold>더 많은 자원</>을 가져오며, 스테이션의 제조 공정을 효율화하는 데 매우 유용합니다."
 
-msgctxt "DT_Tutorials@e0@3a5c"
+msgctxt "DT_Tutorials@e0@3a56"
 msgid "Onboarding Complete"
 msgstr "온보딩 완료"
 
-msgctxt "DT_Tutorials@e0@3aa3"
+msgctxt "DT_Tutorials@e0@3a9d"
 msgid "Congratulations Station Commander, you've completed the <Bold>Nova Corp Onboarding Process</>.\r\n\r\nYou're now ready to go forth and <Bold>build, explore and expand</> your industrial empire across the TAU system.\r\n\r\nWe see great things in your future, Commander - <Bold>good luck!</>"
 msgstr "축하합니다 스테이션 사령관님, <Bold>노바 코프 온보딩 절차</>를 완료하셨습니다.\n\n이제 TAU 성계 전역에서 산업 제국을 <Bold>건설하고, 탐험하고, 확장</>할 준비가 되셨습니다.\n\n사령관님의 미래에 큰 일이 있을 것이라 봅니다 — <Bold>행운을 빕니다!</>"
 
-msgctxt "DT_Tutorials@e0@3c10"
+msgctxt "DT_Tutorials@e0@3c0a"
 msgid "Particle Accelerator"
 msgstr "입자 가속기"
 
-msgctxt "DT_Tutorials@e0@3c58"
+msgctxt "DT_Tutorials@e0@3c52"
 msgid "To generate <Bold>Antimatter</> you must construct a <Bold>Particle Accelerator Loop</>.\r\n\r\nThis is constructed from a <Bold>Control Station</>, one or more <Bold>Towers</>, all connected together via <Bold>Conduit</>.\r\n\r\nOnce you have a complete loop and have supplied your station with the required input items, you can start generating antimatter.\r\n\r\nThe <Bold>longer</> the loop you construct, the <Bold>faster</> you can generate antimatter, but the <Bold>more power</> your accelerator will require."
 msgstr "<Bold>반물질</>을 생성하려면 <Bold>입자 가속기 루프</>를 건설해야 합니다.\n\n이는 <Bold>제어 스테이션</>, 하나 이상의 <Bold>타워</>로 구성되며, 모두 <Bold>도관</>으로 연결됩니다.\n\n완전한 루프가 만들어지고 스테이션에 필요한 입력 아이템이 공급되면 반물질 생성을 시작할 수 있습니다.\n\n루프를 <Bold>길게</> 만들수록 반물질을 <Bold>더 빠르게</> 생성할 수 있지만 가속기에 <Bold>더 많은 전력</>이 필요합니다."
 
-msgctxt "DT_Tutorials@e0@3ebb"
+msgctxt "DT_Tutorials@e0@3eb5"
 msgid "Station Status View"
 msgstr "스테이션 상태 뷰"
 
-msgctxt "DT_Tutorials@e0@44c4"
+msgctxt "DT_Tutorials@e0@44be"
 msgid "Equipment Station"
 msgstr "장비 정거장"
 
-msgctxt "DT_Tutorials@e0@4815"
+msgctxt "DT_Tutorials@e0@480f"
 msgid "Multi-Select"
 msgstr "다중 선택"
 
-msgctxt "DT_Tutorials@e0@4855"
+msgctxt "DT_Tutorials@e0@484f"
 msgid "You can use the <Bold>Multi-Select</> tool to select multiple station modules and perform operations on all of them at the same time.\r\n\r\nTo use the tool, click the Multi-Select button from the lower toolbar and <Bold>Left-Click</> or <Bold>Left-Drag</> station modules to select them.\r\n\r\nClick again or hold <Bold>Shift</> while dragging to <Bold>deselect</> modules.\r\n\r\nThe Multi-Select toolbar will appear and you can click one of the functions to apply it to all selected modules."
 msgstr "<Bold>다중 선택</> 도구를 사용하여 여러 스테이션 모듈을 선택하고 동시에 작업을 수행할 수 있습니다.\n\n도구를 사용하려면 하단 툴바에서 다중 선택 버튼을 클릭하고 <Bold>좌클릭</> 또는 <Bold>좌클릭 드래그</>로 스테이션 모듈을 선택하세요.\n\n다시 클릭하거나 드래그 중 <Bold>Shift</>를 누르면 모듈을 <Bold>선택 해제</>합니다.\n\n다중 선택 툴바가 나타나며, 기능 중 하나를 클릭하여 선택된 모든 모듈에 적용할 수 있습니다."
 
-msgctxt "DT_Tutorials@e0@4a8b"
+msgctxt "DT_Tutorials@e0@4a85"
 msgid "Blueprints"
 msgstr "청사진"
 
-msgctxt "DT_Tutorials@e0@4ac9"
+msgctxt "DT_Tutorials@e0@4ac3"
 msgid "You can use <Bold>Blueprints</> to quickly and easily duplicate multiple station modules.\r\n\r\nTo create a blueprint, use the <Bold>Multi-Select</> tool to select multiple modules and click the <Bold>Create Blueprint</> button to open the blueprint creation menu.\r\n\r\nWhen you are satisfied, click the <Bold>Create</> button to form a new blueprint from the selected modules.\r\n\r\nYou can then access your previously created blueprints from the <Bold>Build > Blueprints</> category."
 msgstr "<Bold>청사진</>을 사용하여 여러 스테이션 모듈을 빠르고 쉽게 복제할 수 있습니다.\n\n청사진을 만들려면 <Bold>다중 선택</> 도구로 여러 모듈을 선택하고 <Bold>청사진 만들기</> 버튼을 클릭하여 청사진 생성 메뉴를 여세요.\n\n만족스러우면 <Bold>만들기</> 버튼을 클릭하여 선택된 모듈로부터 새 청사진을 형성하세요.\n\n그 후 이전에 만든 청사진은 <Bold>건설 > 청사진</> 카테고리에서 접근할 수 있습니다."
 
-msgctxt "DT_Tutorials@e0@4d07"
+msgctxt "DT_Tutorials@e0@4d01"
 msgid "Component Factory"
 msgstr "부품 공장"
 
-msgctxt "DT_Tutorials@e0@4ffa"
+msgctxt "DT_Tutorials@e0@4ff4"
 msgid "Exo Planet Ops"
 msgstr "외계행성 운영"
 
-msgctxt "DT_Tutorials@e0@503c"
+msgctxt "DT_Tutorials@e0@5036"
 msgid "Some locations have <Bold>planet-based resources</> that you can collect, and this is accomplished by building an <Bold>Exo Planet Ops Centre</>.\r\n\r\nEach centre lets you deploy up to <Bold>4 planetary lifters</> to collect a specific resource, allowing you to fine-tune exactly which resources you want to gather.\r\n\r\nEach location only allowed a <Bold>maximum number of lifters</> in total however, so you will need to pick and choose which resources each centre will collect carefully."
 msgstr "일부 장소에는 수집할 수 있는 <Bold>행성 기반 자원</>이 있으며, 이는 <Bold>외계행성 운영 센터</>를 건설하여 가능합니다.\n\n각 센터는 특정 자원을 수집하기 위해 최대 <Bold>4개의 행성 리프터</>를 배치할 수 있어 정확히 어떤 자원을 수집할지 세밀하게 조정할 수 있습니다.\n\n다만 각 장소에는 <Bold>총 리프터 최대 수</>가 정해져 있으므로 각 센터가 어떤 자원을 수집할지 신중하게 선택해야 합니다."
 
-msgctxt "DT_Tutorials@e0@5286"
+msgctxt "DT_Tutorials@e0@5280"
 msgid "Arkship Terminal"
 msgstr "방주선 터미널"
 
-msgctxt "DT_Tutorials@e0@555f"
+msgctxt "DT_Tutorials@e0@5559"
 msgid "Production Overview Panel"
 msgstr "생산 개요 패널"
 
-msgctxt "DT_Tutorials@e0@58a7"
+msgctxt "DT_Tutorials@e0@58a1"
 msgid "Space Elevator"
 msgstr "우주 엘리베이터"
 
-msgctxt "DT_Tutorials@e0@5bdf"
+msgctxt "DT_Tutorials@e0@5bd9"
 msgid "Recycler"
 msgstr "재활용기"
 
-msgctxt "DT_Tutorials@e0@5e27"
+msgctxt "DT_Tutorials@e0@5e21"
 msgid "Laboratory"
 msgstr "연구소"
 
-msgctxt "DT_Tutorials@e0@5e65"
+msgctxt "DT_Tutorials@e0@5e5f"
 msgid "The <Bold>Laboratory</> can be used to unlock <Bold>alternative and more efficient recipes</> for commonly used items, materials and parts.\r\n\r\nTo unlock an alternate recipe, feed in the <Bold>required resources</> as shown in the popup list and then select it.\r\n\r\nThe alternative recipe will then appear in the recipe list of the appropriate factory."
 msgstr "<Bold>연구소</>는 자주 사용되는 아이템, 재료, 부품에 대한 <Bold>대체 및 더 효율적인 제작법</>을 잠금 해제하는 데 사용할 수 있습니다.\n\n대체 제작법을 잠금 해제하려면 팝업 목록에 표시된 <Bold>필요 자원</>을 투입한 다음 선택하세요.\n\n그러면 대체 제작법이 해당 공장의 제작법 목록에 나타납니다."
 
-msgctxt "DT_Tutorials@e0@6024"
+msgctxt "DT_Tutorials@e0@601e"
 msgid "Overdrive Cores"
 msgstr "오버드라이브 코어"
 
-msgctxt "DT_Tutorials@e0@6067"
+msgctxt "DT_Tutorials@e0@6061"
 msgid "Overdrive Cores can be inserted into compatible modules to substantially increase their efficiency and output.\r\n\r\nMost factories and resource extractors can be overdriven by dragging an Overdrive Core into the slot located next to its Max Efficiency slider.\r\n\r\nOverdrive Cores can be purchased with Tokens in the Recycler, or found in the world."
 msgstr "오버드라이브 코어는 호환 모듈에 삽입하여 효율과 출력을 크게 향상시킬 수 있습니다.\n\n대부분의 공장과 자원 추출기는 최대 효율 슬라이더 옆에 위치한 슬롯에 오버드라이브 코어를 끌어다 놓아 오버드라이브할 수 있습니다.\n\n오버드라이브 코어는 재활용기에서 토큰으로 구매하거나 게임 세계에서 발견할 수 있습니다."
 

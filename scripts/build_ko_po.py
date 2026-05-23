@@ -128,6 +128,8 @@ TR: dict[str, str] = {
         "메인 툴바의 '+' 버튼을 눌러 사용자 지정 작업을 만들 수 있습니다",
     "You can align multiple <Bold>solar generators</> by using <Bold>Shift + LMB</>":
         "<Bold>Shift + 좌클릭</>으로 여러 <Bold>태양광 발전기</>를 정렬할 수 있습니다",
+    "You can <Bold>move</> most buildings by using <Bold>CTRL + X</>":
+        "<Bold>CTRL + X</> 단축키로 대부분의 건물을 <Bold>이동</>할 수 있습니다",
 
     # ---- DT_Credits (labels only — names stay) ----
     "LOCALISATION VOLUNTEERS": "현지화 자원봉사자",

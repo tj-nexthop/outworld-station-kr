@@ -39,7 +39,9 @@ $sw = [System.Diagnostics.Stopwatch]::StartNew()
 
 # ---------- Paths ----------
 $ROOT       = (Resolve-Path "$PSScriptRoot\..").Path
-$DOTNET_DIR = if ($env:DOTNET_ROOT) { $env:DOTNET_ROOT } else { "$env:USERPROFILE\dotnet8" }
+$DOTNET_DIR = if ($env:DOTNET_ROOT) { $env:DOTNET_ROOT } `
+              elseif (Test-Path "$env:USERPROFILE\dotnet8\dotnet.exe") { "$env:USERPROFILE\dotnet8" } `
+              else { Split-Path (Get-Command dotnet -ErrorAction SilentlyContinue).Source }
 $RETOC      = "$ROOT\tools\retoc.exe"
 $UASSETGUI  = "$ROOT\tools\UAssetGUI.exe"
 $REPAK      = "$ROOT\tools\repak\repak.exe"
@@ -100,6 +102,18 @@ if ($Init) {
   Step "Init: extract source.po + manifest.json"
   python "$ROOT\scripts\extract.py" 2>&1 | Out-Host
   if ($LASTEXITCODE -ne 0) { Die "extract.py failed" }
+
+  Step "Init: extract en/Game.locres + Game.locmeta from game .pak"
+  $LOCRES_EXTRACT = "$ROOT\work\locres_extract"
+  $GAME_PAK = "$GAME_PAKS\OutworldStation-Windows.pak"
+  if (-not (Test-Path $GAME_PAK)) { Die "missing game pak: $GAME_PAK" }
+  if (Test-Path $LOCRES_EXTRACT) { Remove-Item $LOCRES_EXTRACT -Recurse -Force }
+  New-Item -ItemType Directory -Force -Path $LOCRES_EXTRACT | Out-Null
+  & $REPAK unpack -o $LOCRES_EXTRACT -i "OutworldStation/Content/Localization/Game" $GAME_PAK 2>&1 | Out-Null
+  if ($LASTEXITCODE -ne 0) { Die "repak unpack locres failed" }
+  $locresFile = "$LOCRES_EXTRACT\OutworldStation\Content\Localization\Game\en\Game.locres"
+  if (-not (Test-Path $locresFile)) { Die "en/Game.locres not found after repak unpack" }
+  Ok "  locres extracted: $(Split-Path $locresFile -Leaf) ($((Get-Item $locresFile).Length) bytes)"
 }
 
 # ---------- Step 0: regenerate ko.po from build_ko_po.py TR dict ----------

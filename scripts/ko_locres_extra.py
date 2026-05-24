@@ -363,4 +363,24 @@ LOCRES_EXTRA: dict[str, str] = {
         "<Bold>재활용기</>를 사용해 원치 않는 아이템, 재료, 부품을 <Bold>토큰</>으로 변환하세요.\r\n\r\n토큰은 <Bold>오버드라이브 코어</>나 <Bold>기술 포인트</> 같은 다양한 <Bold>보상</>에 사용할 수 있습니다.\r\n\r\n재활용기에 더 가치 있는 자원을 넣을수록 다음 토큰까지의 진행도가 더 많이 올라갑니다.\r\n\r\n참고: 토큰을 구매할 때마다 다음 토큰의 비용이 더 많이 듭니다.",
     "You've unlocked the Energy Shield.\r\n\r\nThis can be crafted in the Equipment Station and assigned to a slot on your Drone to project a personal force-field which absorbs incoming damage and is regenerated over time.":
         "에너지 실드를 잠금 해제했습니다.\r\n\r\n장비 정거장에서 제작한 후 드론 슬롯에 장착하면 개인 역장을 발산해 들어오는 피해를 흡수하며, 시간이 지나면서 재충전됩니다.",
+
+    # ---- 1.0.0.3 patch additions (Multi-Select Max Efficiency, factory caps, alt-recipe, Antimatter option, etc.) ----
+    "Meteor": "운석",
+    "CONTENTS:": "내용물:",
+    "Ice Storm:": "얼음 폭풍:",
+    "SELECT ALL:": "전체 선택:",
+    "CONTAINMENT FAILURES": "격리 실패",
+    "CONTAINMENT FAILURES ENABLED": "격리 실패 활성화",
+    "Quantum Superconductor": "양자 초전도체",
+    "Antimatter Containment Failures": "반물질 격리 실패",
+    "You can <Bold>move</> most buildings by using <Bold>CTRL + X</>":
+        "<Bold>CTRL + X</>로 대부분의 건물을 <Bold>이동</>할 수 있습니다",
+    "<Bold>Show Precise Values</>\r\nDisplay exact values without rounding them up or down":
+        "<Bold>정확한 값 표시</>\r\n반올림하지 않은 정확한 값을 표시합니다",
+    "Choose whether buildings will lose containment and explode if they contain antimatter and lose power":
+        "반물질을 보유한 건물이 전력을 잃을 때 격리가 실패하여 폭발할지 여부를 선택",
+    "<Bold>Max to build</>\r\nSet the total number of this recipe that the factory will manufacture before automatically stopping.":
+        "<Bold>최대 제작 수량</>\r\n공장이 자동으로 중단하기 전까지 이 레시피로 제작할 총 수량을 설정합니다.",
+    "<Bold>Tugs</> can be used to automate moving ships around your station.\r\n\r\nYou can use the <Bold>Link</> function to link a <Bold>shipyard</> to another module such as a <Bold>fuel bay</> or <Bold>ammo depot</>, or to an <Bold>empty space</> near your station.\r\n\r\nIf a tug is in range of a completed ship in one of these connected modules it will automatically pick up and transfer the ship to the correct destination.":
+        "<Bold>예인선</>은 스테이션 주변에서 함선 이동을 자동화하는 데 사용할 수 있습니다.\r\n\r\n<Bold>연결</> 기능으로 <Bold>조선소</>를 <Bold>연료 베이</>, <Bold>탄약 보관소</> 또는 스테이션 근처 <Bold>빈 공간</> 같은 다른 모듈에 연결할 수 있습니다.\r\n\r\n연결된 모듈 중 하나에 완성된 함선이 예인선 범위 안에 있으면 자동으로 픽업해서 올바른 목적지로 운송합니다.",
 }

@@ -373,8 +373,7 @@ LOCRES_EXTRA: dict[str, str] = {
     "CONTAINMENT FAILURES ENABLED": "격리 실패 활성화",
     "Quantum Superconductor": "양자 초전도체",
     "Antimatter Containment Failures": "반물질 격리 실패",
-    "You can <Bold>move</> most buildings by using <Bold>CTRL + X</>":
-        "<Bold>CTRL + X</>로 대부분의 건물을 <Bold>이동</>할 수 있습니다",
+    # CTRL+X moved to TR via PR #1 (saintiron82) — TR/po_dict wins, this is now dead.
     "<Bold>Show Precise Values</>\r\nDisplay exact values without rounding them up or down":
         "<Bold>정확한 값 표시</>\r\n반올림하지 않은 정확한 값을 표시합니다",
     "Choose whether buildings will lose containment and explode if they contain antimatter and lose power":

@@ -1888,6 +1888,10 @@ msgctxt "DT_LoadingScreenTips@e0@939"
 msgid "You can align multiple <Bold>solar generators</> by using <Bold>Shift + LMB</>"
 msgstr "<Bold>Shift + 좌클릭</>으로 여러 <Bold>태양광 발전기</>를 정렬할 수 있습니다"
 
+msgctxt "DT_LoadingScreenTips@e0@9c8"
+msgid "You can <Bold>move</> most buildings by using <Bold>CTRL + X</>"
+msgstr "<Bold>CTRL + X</> 단축키로 대부분의 건물을 <Bold>이동</>할 수 있습니다"
+
 # ---------------------------------------------------------- DT_Materials
 msgctxt "DT_Materials@e0@f0"
 msgid "Titanium"

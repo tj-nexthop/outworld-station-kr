@@ -382,4 +382,10 @@ LOCRES_EXTRA: dict[str, str] = {
         "<Bold>최대 제작 수량</>\r\n공장이 자동으로 중단하기 전까지 이 레시피로 제작할 총 수량을 설정합니다.",
     "<Bold>Tugs</> can be used to automate moving ships around your station.\r\n\r\nYou can use the <Bold>Link</> function to link a <Bold>shipyard</> to another module such as a <Bold>fuel bay</> or <Bold>ammo depot</>, or to an <Bold>empty space</> near your station.\r\n\r\nIf a tug is in range of a completed ship in one of these connected modules it will automatically pick up and transfer the ship to the correct destination.":
         "<Bold>예인선</>은 스테이션 주변에서 함선 이동을 자동화하는 데 사용할 수 있습니다.\r\n\r\n<Bold>연결</> 기능으로 <Bold>조선소</>를 <Bold>연료 베이</>, <Bold>탄약 보관소</> 또는 스테이션 근처 <Bold>빈 공간</> 같은 다른 모듈에 연결할 수 있습니다.\r\n\r\n연결된 모듈 중 하나에 완성된 함선이 예인선 범위 안에 있으면 자동으로 픽업해서 올바른 목적지로 운송합니다.",
+
+    # ---- 1.0.0.4 patch — Clear key binding + Recycler Token warning ----
+    "CLEAR KEYBIND": "키 바인딩 지우기",
+    "Available Recycler Tokens": "사용 가능한 재활용기 토큰",
+    "RECYCLER TOKENS AVAILABLE": "사용 가능한 재활용기 토큰",
+    "Recycler Tokens Available": "사용 가능한 재활용기 토큰",
 }

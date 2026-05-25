@@ -3175,674 +3175,704 @@ msgid "<Bold>Mk 2 Wormholes</> have now been unlocked. \r\n\r\nThese can transpo
 msgstr ""
 
 #: DT_Levels export[0] offset=0xe509
-#. encoding=ASCII len_field=19
+#. encoding=ASCII len_field=22
 msgctxt "DT_Levels@e0@e509"
-msgid "11_QUANTUM_STORAGE"
+msgid "11_QUANTUM_EXTRACTION"
 msgstr ""
 
-#: DT_Levels export[0] offset=0xe54f
-#. encoding=ASCII len_field=16
-msgctxt "DT_Levels@e0@e54f"
-msgid "Quantum Storage"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xe597
-#. encoding=ASCII len_field=164
-msgctxt "DT_Levels@e0@e597"
-msgid "Unlocks the <Bold>Quantum Storage</> device which lets you feed in items and parts and then <Bold>access them from anywhere</> via your <Bold>Drone's inventory</>."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xe6b1
-#. encoding=ASCII len_field=173
-msgctxt "DT_Levels@e0@e6b1"
-msgid "<Bold>Quantum Storage</> units have now been unlocked. \r\n\r\nFeed items and materials into this device and <Bold>access them anywhere</> from your <Bold>Drone's inventory</>."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xe772
-#. encoding=ASCII len_field=19
-msgctxt "DT_Levels@e0@e772"
-msgid "11_QUANTUM_PHYSICS"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xe7b3
-#. encoding=ASCII len_field=25
-msgctxt "DT_Levels@e0@e7b3"
-msgid "11_CENTRIFUGE_TECHNOLOGY"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xe7ff
-#. encoding=ASCII len_field=22
-msgctxt "DT_Levels@e0@e7ff"
-msgid "Centrifuge Technology"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xe84d
-#. encoding=ASCII len_field=134
-msgctxt "DT_Levels@e0@e84d"
-msgid "Unlocks the <Bold>Centrifuge</> which can be used to enrich <Bold>waste products</> and convert them into <Bold>useable materials</>."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xe951
-#. encoding=ASCII len_field=158
-msgctxt "DT_Levels@e0@e951"
-msgid "The <Bold>Centrifuge</> has now been unlocked. \r\n\r\nThis device can be used to <Bold>enrich waste products</> and convert them into <Bold>usable materials</>."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xea03
-#. encoding=ASCII len_field=19
-msgctxt "DT_Levels@e0@ea03"
-msgid "11_QUANTUM_PHYSICS"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xea3c
-#. encoding=ASCII len_field=8
-msgctxt "DT_Levels@e0@ea3c"
-msgid "11_MAIN"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xea77
-#. encoding=ASCII len_field=17
-msgctxt "DT_Levels@e0@ea77"
-msgid "Arkship Terminal"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xeb0b
-#. encoding=ASCII len_field=143
-msgctxt "DT_Levels@e0@eb0b"
-msgid "<Bold>The Arkship</> will be our race's <Bold>greatest achievement</> - and our salvation - but its construction will take everything we have."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xebcd
-#. encoding=ASCII len_field=215
-msgctxt "DT_Levels@e0@ebcd"
-msgid "The first step will be constructing an <Bold>Arkship Terminal</>, which will serve as a nexus to channel items, parts and materials into the project. This is now available to construct from the <Bold>Build menu</>."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xecd7
-#. encoding=ASCII len_field=227
-msgctxt "DT_Levels@e0@ecd7"
-msgid "We've also picked up some <Bold>interesting readings</> from the orbit of the gas giant <Bold>Scylla</> - we recommend dispatching an <Bold>exploration mission</> there immediately with the following ships:\r\n\r\n{REQUIRED_SHIPS}"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xee01
-#. encoding=ASCII len_field=225
-msgctxt "DT_Levels@e0@ee01"
-msgid "Well done Station Commander, the Arkship Terminal is now <Bold>fully operational</>.\r\n\r\nWhen you're ready, you can start feeding in the required items, parts and materials and take us to the <Bold>next stage</> of operation."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xef15
-#. encoding=ASCII len_field=257
-msgctxt "DT_Levels@e0@ef15"
-msgid "Our <Bold>exploration mission</> to the gas giant <Bold>Scylla</> has also discovered an extremely <Bold>mineral-rich moon</> orbiting the planet - <Bold>Helion</> - and this location has been added to the System Map ready for <Bold>immediate expansion</>."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf02a
-#. encoding=ASCII len_field=19
-msgctxt "DT_Levels@e0@f02a"
-msgid "11_QUANTUM_PHYSICS"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf0cf
-#. encoding=ASCII len_field=21
-msgctxt "DT_Levels@e0@f0cf"
-msgid "Building The Arkship"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf117
-#. encoding=ASCII len_field=451
-msgctxt "DT_Levels@e0@f117"
-msgid "After neutralising an <Bold>ancient robot production facility</> in orbit around the <Bold>Lava Planet Cerberus</> - and developing many new manufacturing technologies - we believe we are finally ready to start production on our <Bold>Intergalactic Arkship</> and escape this doomed galaxy forever.\r\n\r\nThis is not going to be easy, however, and <Bold>The Void</> has <Bold>accelerated its expansion</> - so we may not have as much time as we hoped..."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf315
-#. encoding=ASCII len_field=12
-msgctxt "DT_Levels@e0@f315"
-msgid "The Arkship"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf341
-#. encoding=ASCII len_field=22
-msgctxt "DT_Levels@e0@f341"
-msgid "12_ARMOURED_MATERIALS"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf38a
-#. encoding=ASCII len_field=19
-msgctxt "DT_Levels@e0@f38a"
-msgid "Armoured Materials"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf3d5
-#. encoding=ASCII len_field=89
-msgctxt "DT_Levels@e0@f3d5"
-msgid "Researches <Bold>Tungten Carbide</> and related materials for extreme damage resistance."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf4b8
-#. encoding=ASCII len_field=168
-msgctxt "DT_Levels@e0@f4b8"
-msgid "We've completed research into the material <Bold>Tungsten Carbide</>.\r\n\r\nThis very dense, tough material can be used in extreme environments and high pressure systems."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf58a
-#. encoding=ASCII len_field=21
-msgctxt "DT_Levels@e0@f58a"
-msgid "12_COMPONENT_FACTORY"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf5d2
-#. encoding=ASCII len_field=18
-msgctxt "DT_Levels@e0@f5d2"
-msgid "Component Factory"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf61c
-#. encoding=ASCII len_field=122
-msgctxt "DT_Levels@e0@f61c"
-msgid "Unlocks the <Bold>Component Factory</> module, which can produce large <Bold>Starship</> and <Bold>Arkship components</>."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf72c
-#. encoding=ASCII len_field=201
-msgctxt "DT_Levels@e0@f72c"
-msgid "The <Bold>Component Factory</> has been unlocked.\r\n\r\nThis module is used to produce larger <Bold>Starship</> and <Bold>Arkship components</> which will require a tug to install into their destination."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf81f
-#. encoding=ASCII len_field=27
-msgctxt "DT_Levels@e0@f81f"
-msgid "12_LARGE_SHIP_CONSTRUCTION"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf86d
+#: DT_Levels export[0] offset=0xe552
 #. encoding=ASCII len_field=24
-msgctxt "DT_Levels@e0@f86d"
-msgid "Large Ship Construction"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf8bd
-#. encoding=ASCII len_field=87
-msgctxt "DT_Levels@e0@f8bd"
-msgid "Unlocks the <Bold>Large Shipyard</>, which can construct the largest classes of ships."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xf996
-#. encoding=ASCII len_field=176
-msgctxt "DT_Levels@e0@f996"
-msgid "The <Bold>Large Shipyard</> has been unlocked.\r\n\r\nThis can construct the very largest classes of starship, which will require a <Bold>large tug</> to move around your station."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xfa5a
-#. encoding=ASCII len_field=22
-msgctxt "DT_Levels@e0@fa5a"
-msgid "12_ARMOURED_MATERIALS"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xfa8e
-#. encoding=ASCII len_field=27
-msgctxt "DT_Levels@e0@fa8e"
-msgid "12_ADVANCED_SHIP_TRANSPORT"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xfadc
-#. encoding=ASCII len_field=30
-msgctxt "DT_Levels@e0@fadc"
-msgid "Large Starship Transportation"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xfb32
-#. encoding=ASCII len_field=123
-msgctxt "DT_Levels@e0@fb32"
-msgid "Unlocks the <Bold>Large Tug Bay</> and <Bold>Large Ship Tugs</> which can transport the largest ships around your station."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xfc23
-#. encoding=ASCII len_field=149
-msgctxt "DT_Levels@e0@fc23"
-msgid "You have unlocked the <Bold>Large Tug Bay</> and <Bold>Large Ship Tugs</> which can be used to transport even the largest ships around your station."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xfce6
-#. encoding=ASCII len_field=17
-msgctxt "DT_Levels@e0@fce6"
-msgid "12_EXOPLANET_OPS"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xfd2a
-#. encoding=ASCII len_field=14
-msgctxt "DT_Levels@e0@fd2a"
-msgid "Exoplanet Ops"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xfd70
-#. encoding=ASCII len_field=145
-msgctxt "DT_Levels@e0@fd70"
-msgid "Unlocks the <Bold>Exoplanet Ops Centre</> which can deploy <Bold>Planetary Lifters</> to fetch resources from the surface of compatible planets."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xfe77
-#. encoding=ASCII len_field=195
-msgctxt "DT_Levels@e0@fe77"
-msgid "You have now unlocked the <Bold>Exoplanet Ops Centre</>.\r\n\r\nThis module can deploy multiple <Bold>Planetary Lifters</> which can be set to fetch resources from the surface of compatible planets."
-msgstr ""
-
-#: DT_Levels export[0] offset=0xff68
-#. encoding=ASCII len_field=28
-msgctxt "DT_Levels@e0@ff68"
-msgid "12_ADVANCED_FLUID_TRANSPORT"
-msgstr ""
-
-#: DT_Levels export[0] offset=0xffb7
-#. encoding=ASCII len_field=25
-msgctxt "DT_Levels@e0@ffb7"
-msgid "Advanced Fluid Transport"
-msgstr ""
-
-#: DT_Levels export[0] offset=0x10008
-#. encoding=ASCII len_field=155
-msgctxt "DT_Levels@e0@10008"
-msgid "Unlocks <Bold>Mark 2 Pipes</> and an <Bold>increased gas/fluid output rate</> to speed up how fast you can transport gases and fluids around your station."
-msgstr ""
-
-#: DT_Levels export[0] offset=0x10124
-#. encoding=ASCII len_field=193
-msgctxt "DT_Levels@e0@10124"
-msgid "You have unlocked <Bold>Mark 2 Pipes</> and an <Bold>increased gas/fluid output rate</>.\r\n\r\nTogether these will vastly speed up how fast you can transport gases and fluids around your station."
-msgstr ""
-
-#: DT_Levels export[0] offset=0x101f9
-#. encoding=ASCII len_field=22
-msgctxt "DT_Levels@e0@101f9"
-msgid "12_ARMOURED_MATERIALS"
-msgstr ""
-
-#: DT_Levels export[0] offset=0x10248
-#. encoding=ASCII len_field=23
-msgctxt "DT_Levels@e0@10248"
-msgid "12_ANTIMATTER_FUELLING"
-msgstr ""
-
-#: DT_Levels export[0] offset=0x10292
-#. encoding=ASCII len_field=20
-msgctxt "DT_Levels@e0@10292"
-msgid "Antimatter Fuelling"
-msgstr ""
-
-#: DT_Levels export[0] offset=0x102de
-#. encoding=ASCII len_field=194
-msgctxt "DT_Levels@e0@102de"
-msgid "Unlocks the <Bold>Mk 3 Fuel Depot</> which has a faster fuel transfer rate and can supply <Bold>Antimatter</> to larger ships, as well as the Crusader Auxilliary, a Capital-class resupply ship."
-msgstr ""
-
-#: DT_Levels export[0] offset=0x1043a
-#. encoding=ASCII len_field=330
-msgctxt "DT_Levels@e0@1043a"
-msgid "The <Bold>Mk 3 Fuel Depot</> has now been unlocked.\r\n\r\nThis module has a <Bold>faster fuel transfer rate</> and can both store and supply <Bold>Antimatter</> to the largest starships.\r\n\r\nYou can now also construct the Crusader Auxilliary, a Capital-class resupply ship which can refuel both fusion and antimatter-based starships."
-msgstr ""
-
-#: DT_Levels export[0] offset=0x10598
-#. encoding=ASCII len_field=22
-msgctxt "DT_Levels@e0@10598"
-msgid "12_ARMOURED_MATERIALS"
-msgstr ""
-
-#: DT_Levels export[0] offset=0x105cc
-#. encoding=ASCII len_field=22
-msgctxt "DT_Levels@e0@105cc"
-msgid "12_QUANTUM_EXTRACTION"
-msgstr ""
-
-#: DT_Levels export[0] offset=0x10615
-#. encoding=ASCII len_field=24
-msgctxt "DT_Levels@e0@10615"
+msgctxt "DT_Levels@e0@e552"
 msgid "Quantum Rift Extraction"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x10665
+#: DT_Levels export[0] offset=0xe5a2
 #. encoding=ASCII len_field=100
-msgctxt "DT_Levels@e0@10665"
+msgctxt "DT_Levels@e0@e5a2"
 msgid "Unlocks the <Bold>Quantum Extractor</> which can extract Exotic Matter directly from a Quantum Rift"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x1073f
+#: DT_Levels export[0] offset=0xe67c
 #. encoding=ASCII len_field=231
-msgctxt "DT_Levels@e0@1073f"
+msgctxt "DT_Levels@e0@e67c"
 msgid "The <Bold>Quantum Extractor</> has now been unlocked.\r\n\r\nConstruct this advanced device onto <Bold>Quantum Rifts</> you can find in locations like the <Bold>Junkyard</> to automate large-scale extraction of <Bold>Exotic Matter</>."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x1083a
+#: DT_Levels export[0] offset=0xe777
+#. encoding=ASCII len_field=19
+msgctxt "DT_Levels@e0@e777"
+msgid "11_QUANTUM_PHYSICS"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xe7b0
+#. encoding=ASCII len_field=19
+msgctxt "DT_Levels@e0@e7b0"
+msgid "11_QUANTUM_STORAGE"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xe7f6
+#. encoding=ASCII len_field=16
+msgctxt "DT_Levels@e0@e7f6"
+msgid "Quantum Storage"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xe83e
+#. encoding=ASCII len_field=164
+msgctxt "DT_Levels@e0@e83e"
+msgid "Unlocks the <Bold>Quantum Storage</> device which lets you feed in items and parts and then <Bold>access them from anywhere</> via your <Bold>Drone's inventory</>."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xe958
+#. encoding=ASCII len_field=173
+msgctxt "DT_Levels@e0@e958"
+msgid "<Bold>Quantum Storage</> units have now been unlocked. \r\n\r\nFeed items and materials into this device and <Bold>access them anywhere</> from your <Bold>Drone's inventory</>."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xea19
+#. encoding=ASCII len_field=19
+msgctxt "DT_Levels@e0@ea19"
+msgid "11_QUANTUM_PHYSICS"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xea5a
+#. encoding=ASCII len_field=25
+msgctxt "DT_Levels@e0@ea5a"
+msgid "11_CENTRIFUGE_TECHNOLOGY"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xeaa6
+#. encoding=ASCII len_field=22
+msgctxt "DT_Levels@e0@eaa6"
+msgid "Centrifuge Technology"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xeaf4
+#. encoding=ASCII len_field=134
+msgctxt "DT_Levels@e0@eaf4"
+msgid "Unlocks the <Bold>Centrifuge</> which can be used to enrich <Bold>waste products</> and convert them into <Bold>useable materials</>."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xebf8
+#. encoding=ASCII len_field=158
+msgctxt "DT_Levels@e0@ebf8"
+msgid "The <Bold>Centrifuge</> has now been unlocked. \r\n\r\nThis device can be used to <Bold>enrich waste products</> and convert them into <Bold>usable materials</>."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xecaa
+#. encoding=ASCII len_field=19
+msgctxt "DT_Levels@e0@ecaa"
+msgid "11_QUANTUM_PHYSICS"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xece3
+#. encoding=ASCII len_field=8
+msgctxt "DT_Levels@e0@ece3"
+msgid "11_MAIN"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xed1e
+#. encoding=ASCII len_field=17
+msgctxt "DT_Levels@e0@ed1e"
+msgid "Arkship Terminal"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xedb2
+#. encoding=ASCII len_field=143
+msgctxt "DT_Levels@e0@edb2"
+msgid "<Bold>The Arkship</> will be our race's <Bold>greatest achievement</> - and our salvation - but its construction will take everything we have."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xee74
+#. encoding=ASCII len_field=215
+msgctxt "DT_Levels@e0@ee74"
+msgid "The first step will be constructing an <Bold>Arkship Terminal</>, which will serve as a nexus to channel items, parts and materials into the project. This is now available to construct from the <Bold>Build menu</>."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xef7e
+#. encoding=ASCII len_field=227
+msgctxt "DT_Levels@e0@ef7e"
+msgid "We've also picked up some <Bold>interesting readings</> from the orbit of the gas giant <Bold>Scylla</> - we recommend dispatching an <Bold>exploration mission</> there immediately with the following ships:\r\n\r\n{REQUIRED_SHIPS}"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf0a8
+#. encoding=ASCII len_field=225
+msgctxt "DT_Levels@e0@f0a8"
+msgid "Well done Station Commander, the Arkship Terminal is now <Bold>fully operational</>.\r\n\r\nWhen you're ready, you can start feeding in the required items, parts and materials and take us to the <Bold>next stage</> of operation."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf1bc
+#. encoding=ASCII len_field=257
+msgctxt "DT_Levels@e0@f1bc"
+msgid "Our <Bold>exploration mission</> to the gas giant <Bold>Scylla</> has also discovered an extremely <Bold>mineral-rich moon</> orbiting the planet - <Bold>Helion</> - and this location has been added to the System Map ready for <Bold>immediate expansion</>."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf2d1
+#. encoding=ASCII len_field=19
+msgctxt "DT_Levels@e0@f2d1"
+msgid "11_QUANTUM_PHYSICS"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf391
+#. encoding=ASCII len_field=21
+msgctxt "DT_Levels@e0@f391"
+msgid "Building The Arkship"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf3d9
+#. encoding=ASCII len_field=451
+msgctxt "DT_Levels@e0@f3d9"
+msgid "After neutralising an <Bold>ancient robot production facility</> in orbit around the <Bold>Lava Planet Cerberus</> - and developing many new manufacturing technologies - we believe we are finally ready to start production on our <Bold>Intergalactic Arkship</> and escape this doomed galaxy forever.\r\n\r\nThis is not going to be easy, however, and <Bold>The Void</> has <Bold>accelerated its expansion</> - so we may not have as much time as we hoped..."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf5d7
+#. encoding=ASCII len_field=12
+msgctxt "DT_Levels@e0@f5d7"
+msgid "The Arkship"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf603
+#. encoding=ASCII len_field=22
+msgctxt "DT_Levels@e0@f603"
+msgid "12_ARMOURED_MATERIALS"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf64c
+#. encoding=ASCII len_field=19
+msgctxt "DT_Levels@e0@f64c"
+msgid "Armoured Materials"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf697
+#. encoding=ASCII len_field=89
+msgctxt "DT_Levels@e0@f697"
+msgid "Researches <Bold>Tungten Carbide</> and related materials for extreme damage resistance."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf77a
+#. encoding=ASCII len_field=168
+msgctxt "DT_Levels@e0@f77a"
+msgid "We've completed research into the material <Bold>Tungsten Carbide</>.\r\n\r\nThis very dense, tough material can be used in extreme environments and high pressure systems."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf84c
+#. encoding=ASCII len_field=21
+msgctxt "DT_Levels@e0@f84c"
+msgid "12_COMPONENT_FACTORY"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf894
+#. encoding=ASCII len_field=18
+msgctxt "DT_Levels@e0@f894"
+msgid "Component Factory"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf8de
+#. encoding=ASCII len_field=122
+msgctxt "DT_Levels@e0@f8de"
+msgid "Unlocks the <Bold>Component Factory</> module, which can produce large <Bold>Starship</> and <Bold>Arkship components</>."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xf9ee
+#. encoding=ASCII len_field=201
+msgctxt "DT_Levels@e0@f9ee"
+msgid "The <Bold>Component Factory</> has been unlocked.\r\n\r\nThis module is used to produce larger <Bold>Starship</> and <Bold>Arkship components</> which will require a tug to install into their destination."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xfae1
 #. encoding=ASCII len_field=27
-msgctxt "DT_Levels@e0@1083a"
+msgctxt "DT_Levels@e0@fae1"
 msgid "12_LARGE_SHIP_CONSTRUCTION"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x1087b
+#: DT_Levels export[0] offset=0xfb2f
+#. encoding=ASCII len_field=24
+msgctxt "DT_Levels@e0@fb2f"
+msgid "Large Ship Construction"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xfb7f
+#. encoding=ASCII len_field=87
+msgctxt "DT_Levels@e0@fb7f"
+msgid "Unlocks the <Bold>Large Shipyard</>, which can construct the largest classes of ships."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xfc58
+#. encoding=ASCII len_field=176
+msgctxt "DT_Levels@e0@fc58"
+msgid "The <Bold>Large Shipyard</> has been unlocked.\r\n\r\nThis can construct the very largest classes of starship, which will require a <Bold>large tug</> to move around your station."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xfd1c
+#. encoding=ASCII len_field=22
+msgctxt "DT_Levels@e0@fd1c"
+msgid "12_ARMOURED_MATERIALS"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xfd50
+#. encoding=ASCII len_field=27
+msgctxt "DT_Levels@e0@fd50"
+msgid "12_ADVANCED_SHIP_TRANSPORT"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xfd9e
+#. encoding=ASCII len_field=30
+msgctxt "DT_Levels@e0@fd9e"
+msgid "Large Starship Transportation"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xfdf4
+#. encoding=ASCII len_field=123
+msgctxt "DT_Levels@e0@fdf4"
+msgid "Unlocks the <Bold>Large Tug Bay</> and <Bold>Large Ship Tugs</> which can transport the largest ships around your station."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xfee5
+#. encoding=ASCII len_field=149
+msgctxt "DT_Levels@e0@fee5"
+msgid "You have unlocked the <Bold>Large Tug Bay</> and <Bold>Large Ship Tugs</> which can be used to transport even the largest ships around your station."
+msgstr ""
+
+#: DT_Levels export[0] offset=0xffa8
+#. encoding=ASCII len_field=17
+msgctxt "DT_Levels@e0@ffa8"
+msgid "12_EXOPLANET_OPS"
+msgstr ""
+
+#: DT_Levels export[0] offset=0xffec
+#. encoding=ASCII len_field=14
+msgctxt "DT_Levels@e0@ffec"
+msgid "Exoplanet Ops"
+msgstr ""
+
+#: DT_Levels export[0] offset=0x10032
+#. encoding=ASCII len_field=145
+msgctxt "DT_Levels@e0@10032"
+msgid "Unlocks the <Bold>Exoplanet Ops Centre</> which can deploy <Bold>Planetary Lifters</> to fetch resources from the surface of compatible planets."
+msgstr ""
+
+#: DT_Levels export[0] offset=0x10139
+#. encoding=ASCII len_field=195
+msgctxt "DT_Levels@e0@10139"
+msgid "You have now unlocked the <Bold>Exoplanet Ops Centre</>.\r\n\r\nThis module can deploy multiple <Bold>Planetary Lifters</> which can be set to fetch resources from the surface of compatible planets."
+msgstr ""
+
+#: DT_Levels export[0] offset=0x1022a
+#. encoding=ASCII len_field=28
+msgctxt "DT_Levels@e0@1022a"
+msgid "12_ADVANCED_FLUID_TRANSPORT"
+msgstr ""
+
+#: DT_Levels export[0] offset=0x10279
+#. encoding=ASCII len_field=25
+msgctxt "DT_Levels@e0@10279"
+msgid "Advanced Fluid Transport"
+msgstr ""
+
+#: DT_Levels export[0] offset=0x102ca
+#. encoding=ASCII len_field=155
+msgctxt "DT_Levels@e0@102ca"
+msgid "Unlocks <Bold>Mark 2 Pipes</> and an <Bold>increased gas/fluid output rate</> to speed up how fast you can transport gases and fluids around your station."
+msgstr ""
+
+#: DT_Levels export[0] offset=0x103e6
+#. encoding=ASCII len_field=193
+msgctxt "DT_Levels@e0@103e6"
+msgid "You have unlocked <Bold>Mark 2 Pipes</> and an <Bold>increased gas/fluid output rate</>.\r\n\r\nTogether these will vastly speed up how fast you can transport gases and fluids around your station."
+msgstr ""
+
+#: DT_Levels export[0] offset=0x104bb
+#. encoding=ASCII len_field=22
+msgctxt "DT_Levels@e0@104bb"
+msgid "12_ARMOURED_MATERIALS"
+msgstr ""
+
+#: DT_Levels export[0] offset=0x1050a
+#. encoding=ASCII len_field=23
+msgctxt "DT_Levels@e0@1050a"
+msgid "12_ANTIMATTER_FUELLING"
+msgstr ""
+
+#: DT_Levels export[0] offset=0x10554
+#. encoding=ASCII len_field=20
+msgctxt "DT_Levels@e0@10554"
+msgid "Antimatter Fuelling"
+msgstr ""
+
+#: DT_Levels export[0] offset=0x105a0
+#. encoding=ASCII len_field=194
+msgctxt "DT_Levels@e0@105a0"
+msgid "Unlocks the <Bold>Mk 3 Fuel Depot</> which has a faster fuel transfer rate and can supply <Bold>Antimatter</> to larger ships, as well as the Crusader Auxilliary, a Capital-class resupply ship."
+msgstr ""
+
+#: DT_Levels export[0] offset=0x106fc
+#. encoding=ASCII len_field=330
+msgctxt "DT_Levels@e0@106fc"
+msgid "The <Bold>Mk 3 Fuel Depot</> has now been unlocked.\r\n\r\nThis module has a <Bold>faster fuel transfer rate</> and can both store and supply <Bold>Antimatter</> to the largest starships.\r\n\r\nYou can now also construct the Crusader Auxilliary, a Capital-class resupply ship which can refuel both fusion and antimatter-based starships."
+msgstr ""
+
+#: DT_Levels export[0] offset=0x1085a
+#. encoding=ASCII len_field=22
+msgctxt "DT_Levels@e0@1085a"
+msgid "12_ARMOURED_MATERIALS"
+msgstr ""
+
+#: DT_Levels export[0] offset=0x1088e
+#. encoding=ASCII len_field=22
+msgctxt "DT_Levels@e0@1088e"
+msgid "12_QUANTUM_EXTRACTION"
+msgstr ""
+
+#: DT_Levels export[0] offset=0x108d7
+#. encoding=ASCII len_field=24
+msgctxt "DT_Levels@e0@108d7"
+msgid "Quantum Rift Extraction"
+msgstr ""
+
+#: DT_Levels export[0] offset=0x10926
+#. encoding=ASCII len_field=100
+msgctxt "DT_Levels@e0@10926"
+msgid "Unlocks the <Bold>Quantum Extractor</> which can extract Exotic Matter directly from a Quantum Rift"
+msgstr ""
+
+#: DT_Levels export[0] offset=0x10a00
+#. encoding=ASCII len_field=231
+msgctxt "DT_Levels@e0@10a00"
+msgid "The <Bold>Quantum Extractor</> has now been unlocked.\r\n\r\nConstruct this advanced device onto <Bold>Quantum Rifts</> you can find in locations like the <Bold>Junkyard</> to automate large-scale extraction of <Bold>Exotic Matter</>."
+msgstr ""
+
+#: DT_Levels export[0] offset=0x10afb
+#. encoding=ASCII len_field=27
+msgctxt "DT_Levels@e0@10afb"
+msgid "12_LARGE_SHIP_CONSTRUCTION"
+msgstr ""
+
+#: DT_Levels export[0] offset=0x10b3c
 #. encoding=ASCII len_field=8
-msgctxt "DT_Levels@e0@1087b"
+msgctxt "DT_Levels@e0@10b3c"
 msgid "12_MAIN"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x108b6
+#: DT_Levels export[0] offset=0x10b77
 #. encoding=ASCII len_field=13
-msgctxt "DT_Levels@e0@108b6"
+msgctxt "DT_Levels@e0@10b77"
 msgid "Arkship Dock"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x1096d
+#: DT_Levels export[0] offset=0x10c2e
 #. encoding=ASCII len_field=166
-msgctxt "DT_Levels@e0@1096d"
+msgctxt "DT_Levels@e0@10c2e"
 msgid "Commander, all of our <Bold>deep-space scanning</> stations have just <Bold>gone dark</>, and we are completely blind to what is happening in this sector of space..."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x10a46
+#: DT_Levels export[0] offset=0x10d07
 #. encoding=ASCII len_field=180
-msgctxt "DT_Levels@e0@10a46"
+msgctxt "DT_Levels@e0@10d07"
 msgid "We can patch this gap with a network of our most powerful <Bold>science and scanning ships</>, along with an appropriate escort of military and resupply ships:\r\n\r\n{REQUIRED_SHIPS}"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x10b2d
+#: DT_Levels export[0] offset=0x10dee
 #. encoding=ASCII len_field=254
-msgctxt "DT_Levels@e0@10b2d"
+msgctxt "DT_Levels@e0@10dee"
 msgid "While this mission is underway, it's also <Bold>vital</> that you continue construction of our Intergalactic Arkship Project.\r\n\r\nThe next phase of the project will be building the <Bold>Arkship Dock</>, ready to begin construction of the Arkship itself."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x10c72
+#: DT_Levels export[0] offset=0x10f33
 #. encoding=ASCII len_field=165
-msgctxt "DT_Levels@e0@10c72"
+msgctxt "DT_Levels@e0@10f33"
 msgid "<Bold>Bad news</>, Commander...\r\n\r\nWe've just heard back from the fleet we dispatched to the edge of the system, and it's official: <Bold>The Void has arrived...</>"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x10d4a
+#: DT_Levels export[0] offset=0x1100b
 #. encoding=ASCII len_field=196
-msgctxt "DT_Levels@e0@10d4a"
+msgctxt "DT_Levels@e0@1100b"
 msgid "The Void's last <Bold>Expansion Phase</> has halted at the edge of this system, but another Expansion could occur at any time... we need to get the Arkship completed as soon as we can, Commander!"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x10e41
+#: DT_Levels export[0] offset=0x11102
 #. encoding=ASCII len_field=251
-msgctxt "DT_Levels@e0@10e41"
+msgctxt "DT_Levels@e0@11102"
 msgid "Analysis has confirmed that a station could survive on the edge of The Void's event horizon, and could provide invaluable insight into the inner workings of this mysterious cosmic entity...\r\n\r\nThis location has been added to your <Bold>System Map</>."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x10f7b
+#: DT_Levels export[0] offset=0x11257
 #. encoding=ASCII len_field=6
-msgctxt "DT_Levels@e0@10f7b"
+msgctxt "DT_Levels@e0@11257"
 msgid "False"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x10fec
+#: DT_Levels export[0] offset=0x112c8
 #. encoding=ASCII len_field=18
-msgctxt "DT_Levels@e0@10fec"
+msgctxt "DT_Levels@e0@112c8"
 msgid "13_SPACE_ELEVATOR"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11031
+#: DT_Levels export[0] offset=0x1130d
 #. encoding=ASCII len_field=15
-msgctxt "DT_Levels@e0@11031"
+msgctxt "DT_Levels@e0@1130d"
 msgid "Space Elevator"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11078
+#: DT_Levels export[0] offset=0x11354
 #. encoding=ASCII len_field=121
-msgctxt "DT_Levels@e0@11078"
+msgctxt "DT_Levels@e0@11354"
 msgid "Unlocks the <Bold>Space Elevator</> - a massive structure that can lift valuable resources from the surface of a planet."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x1116f
+#: DT_Levels export[0] offset=0x1144b
 #. encoding=ASCII len_field=203
-msgctxt "DT_Levels@e0@1116f"
+msgctxt "DT_Levels@e0@1144b"
 msgid "You have unlocked the <Bold>Space Elevator</>.\r\n\r\nThis massive orbital structure is capable of lifting valuable items, materials and parts from the surface of a planet, ready to be used in your station."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x1126c
+#: DT_Levels export[0] offset=0x11548
 #. encoding=ASCII len_field=27
-msgctxt "DT_Levels@e0@1126c"
+msgctxt "DT_Levels@e0@11548"
 msgid "13_QUANTUM_DESTABILIZATION"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x112ba
+#: DT_Levels export[0] offset=0x11596
 #. encoding=ASCII len_field=24
-msgctxt "DT_Levels@e0@112ba"
+msgctxt "DT_Levels@e0@11596"
 msgid "Quantum Destabilization"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x1130a
+#: DT_Levels export[0] offset=0x115e6
 #. encoding=ASCII len_field=192
-msgctxt "DT_Levels@e0@1130a"
+msgctxt "DT_Levels@e0@115e6"
 msgid "Unlocks materials, items and parts related to <Bold>Quantum Destabilization</> - a highly experimental technology which has the power to <Bold>disrupt cosmic phenomena</> such as black holes."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11454
+#: DT_Levels export[0] offset=0x11730
 #. encoding=ASCII len_field=253
-msgctxt "DT_Levels@e0@11454"
+msgctxt "DT_Levels@e0@11730"
 msgid "We have completed research into the field of Quantum Destabilization.\r\n\r\nAccording to our scientists, this highly experimental technology has the power to disrupt quantum entities - such as singularities - and may help us in our fight against The Void."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11587
+#: DT_Levels export[0] offset=0x11863
 #. encoding=ASCII len_field=18
-msgctxt "DT_Levels@e0@11587"
+msgctxt "DT_Levels@e0@11863"
 msgid "13_BATTLECRUISERS"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x115cc
+#: DT_Levels export[0] offset=0x118a8
 #. encoding=ASCII len_field=15
-msgctxt "DT_Levels@e0@115cc"
+msgctxt "DT_Levels@e0@118a8"
 msgid "Battlecruisers"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11613
+#: DT_Levels export[0] offset=0x118ef
 #. encoding=ASCII len_field=135
-msgctxt "DT_Levels@e0@11613"
+msgctxt "DT_Levels@e0@118ef"
 msgid "Unlocks the <Bold>Battlecruiser class</> of starship - a massive capital-class ship that can mount the heaviest experimental weaponry."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11718
+#: DT_Levels export[0] offset=0x119f4
 #. encoding=ASCII len_field=189
-msgctxt "DT_Levels@e0@11718"
+msgctxt "DT_Levels@e0@119f4"
 msgid "You have unlocked the Battlecruiser class of starship.\r\n\r\nThis massive capital-class ship can mount the heaviest experimental weaponry and will be invaluable in our fight against The Void."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x117e9
+#: DT_Levels export[0] offset=0x11ac5
 #. encoding=ASCII len_field=27
-msgctxt "DT_Levels@e0@117e9"
+msgctxt "DT_Levels@e0@11ac5"
 msgid "13_QUANTUM_DESTABILIZATION"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x1182a
+#: DT_Levels export[0] offset=0x11b06
 #. encoding=ASCII len_field=24
-msgctxt "DT_Levels@e0@1182a"
+msgctxt "DT_Levels@e0@11b06"
 msgid "13_MAGNETIC_ACCELERATOR"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11875
+#: DT_Levels export[0] offset=0x11b51
 #. encoding=ASCII len_field=21
-msgctxt "DT_Levels@e0@11875"
+msgctxt "DT_Levels@e0@11b51"
 msgid "Magnetic Accelerator"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x118c2
+#: DT_Levels export[0] offset=0x11b9e
 #. encoding=ASCII len_field=151
-msgctxt "DT_Levels@e0@118c2"
+msgctxt "DT_Levels@e0@11b9e"
 msgid "Unlocks the <Bold>Magnetic Accelerator</> which can target and destroy <Bold>Void Anomalies</> you may encounter at The Void's event horizon location."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x119d7
+#: DT_Levels export[0] offset=0x11cb3
 #. encoding=ASCII len_field=317
-msgctxt "DT_Levels@e0@119d7"
+msgctxt "DT_Levels@e0@11cb3"
 msgid "You have unlocked the <Bold>Magnetic Accelerator</>.\r\n\r\nThis massive cannon can fire <Bold>Quantum Implosion Ammo</> at the <Bold>Void Anomalies</> you may encounter at The Void's <Bold>Event Horizon location</>.\r\n\r\nWhen destroyed, these anomalies may leave behind the rare and valuable material <Bold>Neutronium</>."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11b28
+#: DT_Levels export[0] offset=0x11e04
 #. encoding=ASCII len_field=27
-msgctxt "DT_Levels@e0@11b28"
+msgctxt "DT_Levels@e0@11e04"
 msgid "13_QUANTUM_DESTABILIZATION"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11b69
+#: DT_Levels export[0] offset=0x11e45
 #. encoding=ASCII len_field=25
-msgctxt "DT_Levels@e0@11b69"
+msgctxt "DT_Levels@e0@11e45"
 msgid "13_NEUTRONIUM_PROCESSING"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11bb5
+#: DT_Levels export[0] offset=0x11e91
 #. encoding=ASCII len_field=22
-msgctxt "DT_Levels@e0@11bb5"
+msgctxt "DT_Levels@e0@11e91"
 msgid "Neutronium Processing"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11c03
+#: DT_Levels export[0] offset=0x11edf
 #. encoding=ASCII len_field=137
-msgctxt "DT_Levels@e0@11c03"
+msgctxt "DT_Levels@e0@11edf"
 msgid "Unlocks the ability to process <Bold>Neutronium</> into powerful <Bold>hyperdrive fuel</> that can be used in intergalactic star-drives."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11d06
+#: DT_Levels export[0] offset=0x11fe2
 #. encoding=ASCII len_field=245
-msgctxt "DT_Levels@e0@11d06"
+msgctxt "DT_Levels@e0@11fe2"
 msgid "You have unlocked the ability to process <Bold>Neutronium</>.\r\n\r\nThis rare and valuable stellar substance is found in the core of stars and black holes, and can be refined into <Bold>Hyperdrive Fuel</> which can power intergalactic star-drives."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11e0f
+#: DT_Levels export[0] offset=0x120eb
 #. encoding=ASCII len_field=24
-msgctxt "DT_Levels@e0@11e0f"
+msgctxt "DT_Levels@e0@120eb"
 msgid "13_MAGNETIC_ACCELERATOR"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11e4d
+#: DT_Levels export[0] offset=0x12129
 #. encoding=ASCII len_field=20
-msgctxt "DT_Levels@e0@11e4d"
+msgctxt "DT_Levels@e0@12129"
 msgid "13_ANTIMATTER_LAZER"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11e94
+#: DT_Levels export[0] offset=0x12170
 #. encoding=ASCII len_field=17
-msgctxt "DT_Levels@e0@11e94"
+msgctxt "DT_Levels@e0@12170"
 msgid "Antimatter Lazer"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11edd
+#: DT_Levels export[0] offset=0x121b9
 #. encoding=ASCII len_field=127
-msgctxt "DT_Levels@e0@11edd"
+msgctxt "DT_Levels@e0@121b9"
 msgid "Unlocks the <Bold>Antimatter Lazer</> which is a powerful beam weapon that can be crafted from the <Bold>Equipment Station</>."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x11fd6
+#: DT_Levels export[0] offset=0x122b2
 #. encoding=ASCII len_field=226
-msgctxt "DT_Levels@e0@11fd6"
+msgctxt "DT_Levels@e0@122b2"
 msgid "You have now unlocked the <Bold>Antimatter Lazer</>.\r\n\r\nThis is an extremely powerful beam weapon that can be crafted from the <Bold>Equipment Station</> and can be used to defend yourself from even the most powerful enemies."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x12103
+#: DT_Levels export[0] offset=0x123df
 #. encoding=ASCII len_field=8
-msgctxt "DT_Levels@e0@12103"
+msgctxt "DT_Levels@e0@123df"
 msgid "13_MAIN"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x1213e
+#: DT_Levels export[0] offset=0x1241a
 #. encoding=ASCII len_field=21
-msgctxt "DT_Levels@e0@1213e"
+msgctxt "DT_Levels@e0@1241a"
 msgid "Complete The Arkship"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x121da
+#: DT_Levels export[0] offset=0x124b6
 #. encoding=ASCII len_field=240
-msgctxt "DT_Levels@e0@121da"
+msgctxt "DT_Levels@e0@124b6"
 msgid "With our recent advancements in <Bold>Quantum Destablization</> technology, it may actually be possible to temporarily delay The Void's next expansion phase - giving us enough time to complete the <Bold>Arkship</> and escape this galaxy..."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x122fd
+#: DT_Levels export[0] offset=0x125d9
 #. encoding=ASCII len_field=169
-msgctxt "DT_Levels@e0@122fd"
+msgctxt "DT_Levels@e0@125d9"
 msgid "This will require a flotilla of our most <Bold>powerful battlecruisers</> - fitted with this devastating weapons technology - all working in unison:\r\n\r\n{REQUIRED_SHIPS}"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x123d9
+#: DT_Levels export[0] offset=0x126b5
 #. encoding=ASCII len_field=207
-msgctxt "DT_Levels@e0@123d9"
+msgctxt "DT_Levels@e0@126b5"
 msgid "Now that the <Bold>Arkship Dock</> is complete, its time to put all of our efforts into building the <Bold>Arkship</> itself - use every means at your disposal Commander, <Bold>we may not have much time!</>"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x124ef
+#: DT_Levels export[0] offset=0x127cb
 #. encoding=ASCII len_field=210
-msgctxt "DT_Levels@e0@124ef"
+msgctxt "DT_Levels@e0@127cb"
 msgid "<Bold>The Arkship is complete</>, Commander - truly an <Bold>amazing accomplishment!</>\r\n\r\nAll that remains is to power and fuel its <Bold>Intergalactic Stardrive</> - then we will be ready to <Bold>launch</>."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x125d1
+#: DT_Levels export[0] offset=0x128ad
 #. encoding=ASCII len_field=18
-msgctxt "DT_Levels@e0@125d1"
+msgctxt "DT_Levels@e0@128ad"
 msgid "13_BATTLECRUISERS"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x1265e
+#: DT_Levels export[0] offset=0x1293a
 #. encoding=ASCII len_field=18
-msgctxt "DT_Levels@e0@1265e"
+msgctxt "DT_Levels@e0@1293a"
 msgid "14_LAUNCH_ARKSHIP"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x126a3
+#: DT_Levels export[0] offset=0x1297f
 #. encoding=ASCII len_field=19
-msgctxt "DT_Levels@e0@126a3"
+msgctxt "DT_Levels@e0@1297f"
 msgid "Launch The Arkship"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x126ee
+#: DT_Levels export[0] offset=0x129ca
 #. encoding=ASCII len_field=105
-msgctxt "DT_Levels@e0@126ee"
+msgctxt "DT_Levels@e0@129ca"
 msgid "Fuel and power the Intergalactic Arkship's Hyper-drive and escape the galaxy - and The Void - forever..."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x127ba
+#: DT_Levels export[0] offset=0x12a96
 #. encoding=ASCII len_field=231
-msgctxt "DT_Levels@e0@127ba"
+msgctxt "DT_Levels@e0@12a96"
 msgid "With the Arkship complete, we now have everything we need to escape the galaxy - and The Void - forever.\r\n\r\nAll that remains is to <Bold>power and fuel</> the Arkship's Intergalactic <Bold>Hyperdrive</> with neutronium-based fuel."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x128d4
+#: DT_Levels export[0] offset=0x12bb0
 #. encoding=ASCII len_field=165
-msgctxt "DT_Levels@e0@128d4"
+msgctxt "DT_Levels@e0@12bb0"
 msgid "This experimental drive will require <Bold>massive amounts of power</> to initialise - so you will need to use all of your engineering abilities to accomplish this."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x129ac
+#: DT_Levels export[0] offset=0x12c88
 #. encoding=ASCII len_field=183
-msgctxt "DT_Levels@e0@129ac"
+msgctxt "DT_Levels@e0@12c88"
 msgid "Although our Battlecruisers have bought us some time, The Void could start its next <Bold>Expansion Phase</> at any time, so we recommend moving with <Bold>all haste</>, Commander..."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x12aaa
+#: DT_Levels export[0] offset=0x12d86
 #. encoding=ASCII len_field=64
-msgctxt "DT_Levels@e0@12aaa"
+msgctxt "DT_Levels@e0@12d86"
 msgid "Commander, the Arkship is fuelled, powered and ready to launch!"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x12b1d
+#: DT_Levels export[0] offset=0x12df9
 #. encoding=ASCII len_field=234
-msgctxt "DT_Levels@e0@12b1d"
+msgctxt "DT_Levels@e0@12df9"
 msgid "But there's something you should know - we've been receiving communications from inside The Void, and its been confirmed: The people from our home system are still alive somehow - inside The Void - transcribed into a quantum state..."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x12c3a
+#: DT_Levels export[0] offset=0x12f16
 #. encoding=ASCII len_field=225
-msgctxt "DT_Levels@e0@12c3a"
+msgctxt "DT_Levels@e0@12f16"
 msgid "According to them, The Void is NOT the great destroyer that we believed...\r\n\r\nInstead, it seems to be a vast machine created aeons ago to achieve Singularity for everyone in this galaxy... and its almost ready to activate..."
 msgstr ""
 
-#: DT_Levels export[0] offset=0x12d4e
+#: DT_Levels export[0] offset=0x1302a
 #. encoding=ASCII len_field=133
-msgctxt "DT_Levels@e0@12d4e"
+msgctxt "DT_Levels@e0@1302a"
 msgid "Its up to you now, Commander...\r\n\r\nDo we use the Arkship to join our lost kin inside The Void - or to escape this galaxy forever...?"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x12e19
+#: DT_Levels export[0] offset=0x130f5
 #. encoding=ASCII len_field=8
-msgctxt "DT_Levels@e0@12e19"
+msgctxt "DT_Levels@e0@130f5"
 msgid "14_MAIN"
 msgstr ""
 
-#: DT_Levels export[0] offset=0x12e89
+#: DT_Levels export[0] offset=0x13165
 #. encoding=ASCII len_field=18
-msgctxt "DT_Levels@e0@12e89"
+msgctxt "DT_Levels@e0@13165"
 msgid "13_BATTLECRUISERS"
 msgstr ""
 

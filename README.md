@@ -5,8 +5,8 @@
 
 | 항목 (Item) | 값 (Value) |
 |---|---|
-| 한글 패치 버전 (Patch version) | **v1.0.4** |
-| 패치 빌드 날짜 (Patch build date) | **2026-05-25** |
+| 한글 패치 버전 (Patch version) | **v1.0.5** |
+| 패치 빌드 날짜 (Patch build date) | **2026-05-26** |
 | 대상 게임 빌드 (Target game build) | **Outworld Station 1.0.0.4 [REL]** (정식 출시 / Official release, 2026-05-05) |
 | 테스트 OS (Tested OS) | **Windows 11** |
 
@@ -30,7 +30,7 @@
 > **테스트 환경 (Tested on)**: Windows 11. 그 외 환경(Windows 10 등)에서는 동작 보장이 어렵습니다.
 
 1. Steam에서 Outworld Station을 설치합니다.
-2. [v1.0.4 릴리즈 페이지](https://github.com/tj-nexthop/outworld-station-kr/releases/tag/v1.0.4)로 이동 → 페이지 하단 **Assets** 항목에서 `KoreanPatch_OutworldStation_v1.0.4.exe` 다운로드.
+2. [v1.0.5 릴리즈 페이지](https://github.com/tj-nexthop/outworld-station-kr/releases/tag/v1.0.5)로 이동 → 페이지 하단 **Assets** 항목에서 `KoreanPatch_OutworldStation_v1.0.5.exe` 다운로드.
    (또는 항상 최신 버전으로 가려면 [/releases/latest](https://github.com/tj-nexthop/outworld-station-kr/releases/latest))
 3. 더블클릭 → 설치.
 4. Steam에서 게임 실행 → 한국어로 표시됩니다.

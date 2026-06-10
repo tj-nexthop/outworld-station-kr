@@ -32,6 +32,9 @@ Thumbs.db
 # --- Internal planning doc (project history; README has the public-facing version) ---
 /PLAN.md
 
+# --- Personal handover guide (local-only reference, not for public repo) ---
+/한글패치_작업가이드.md
+
 # --- Font binaries (download separately per fonts/README.md) ---
 /fonts/*.ttf
 /fonts/*.otf
